@@ -1,0 +1,64 @@
+row1:
+  # --- Languages ---
+  - icon: devicon-cplusplus-plain
+    name: C++
+
+  - icon: devicon-csharp-plain
+    name: C#
+
+  - icon: devicon-java-plain
+    name: Java
+
+  - icon: devicon-python-plain
+    name: Python
+
+  - icon: devicon-javascript-plain
+    name: JavaScript
+
+  - icon: devicon-typescript-plain
+    name: TypeScript
+
+  - icon: devicon-html5-plain
+    name: HTML
+
+  - icon: devicon-css3-plain
+    name: CSS
+
+row2:
+  # --- Frameworks / Engines ---
+  - icon: devicon-unity-plain
+    name: Unity
+
+  - icon: devicon-unrealengine-original
+    name: Unreal Engine 5
+
+  - icon: devicon-godot-plain
+    name: Godot
+
+  - icon: devicon-opengl-plain
+    name: OpenGL
+
+  - icon: devicon-nodejs-plain
+    name: Node.js
+
+  # --- Tools ---
+  - icon: devicon-git-plain
+    name: Git
+
+  - icon: devicon-jira-plain
+    name: Jira
+
+  - icon: devicon-intellij-plain
+    name: IntelliJ IDEA
+
+  - icon: devicon-vscode-plain
+    name: VS Code
+
+  - icon: devicon-qt-original
+    name: Qt Creator
+
+  - icon: devicon-eclipse-plain
+    name: Eclipse
+
+  - icon: devicon-blender-original
+    name: Blender

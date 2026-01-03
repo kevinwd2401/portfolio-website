@@ -1,0 +1,56 @@
+baseURL = "https://kevindu.dev"
+languageCode = 'en-us'
+title = 'Kevin Du'
+theme = 'hugo-noir'
+
+# URL handling
+relativeURLs = true
+canonifyURLs = true
+
+# Multilingual configuration
+# If you want to use multiple languages, uncomment and configure the [languages] section below.
+# Ensure you have corresponding content directories (e.g., content/en, content/es)
+# and i18n files in themes/hugo-noir/i18n/ for each language.
+# Also, create data files like data/en/author.yaml, data/es/author.yaml for language-specific author info.
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[params]
+  # Theme uses these for header/footer identity + social links
+  name = "Kevin Du"
+  profile_image = "/images/profileimage.jpg"
+
+  location = "Philadelphia, PA"
+  description = "Hi! I’m a developer interested in graphics and game development."
+
+  # Contact + socials (fill these in)
+  email = "kevinwd2401@gmail.com"
+  github = "https://github.com/kevinwd2401"
+  github_username = "kevinwd2401"
+  linkedin = "https://linkedin.com/in/kevinwdu"
+  linkedin_username = "kevinwdu"
+  discord = "ngc3132"
+
+
+# --- Top navigation ---
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    pageRef = "/projects"
+    weight = 1
+
+  [[menu.main]]
+    name = "3D"
+    pageRef = "/3d"
+    weight = 2
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 3
+
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume.pdf"
+    weight = 4
+

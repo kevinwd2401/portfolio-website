@@ -1,0 +1,24 @@
+{{ define "main" }}
+<main class="mx-auto max-w-2xl px-4 py-10">
+    <article>
+        <header class="mb-4">
+            <h1 class="text-3xl font-bold leading-tight">
+                {{ .Title }}
+            </h1>
+        </header>
+
+        <div class="flex flex-wrap gap-2 mb-10">
+            {{ range .Params.tags }}
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                {{ . }}
+            </span>
+            {{ end }}
+        </div>
+
+
+        <section class="markdown">
+            {{ .Content }}
+        </section>
+    </article>
+</main>
+{{ end }}
