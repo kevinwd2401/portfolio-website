@@ -18,10 +18,9 @@ defaultContentLanguageInSubdir = false
 [params]
   # Theme uses these for header/footer identity + social links
   name = "Kevin Du"
-  profile_image = "/images/profileimage.jpg"
 
   location = "Philadelphia, PA"
-  description = "Hi! I’m a developer interested in graphics and game development."
+  description = "Hi! I’m a junior interested in graphics, software engineering, and game development. I am studying Computer Graphics and Game Development at the University of Pennsylvania."
 
   # Contact + socials (fill these in)
   email = "kevinwd2401@gmail.com"

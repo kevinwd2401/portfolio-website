@@ -1,0 +1,77 @@
+projects3d:
+
+  - title: "Towne 337 Render"
+    image: "/images/3d/Towne337.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Blender"
+
+    description: "An atmospheric 3D recreation of a reference photo"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/3d/towne337/"
+
+  - title: "Jellyfish"
+    image: "/images/3d/jellyfish.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Houdini"
+
+    description: "An animated 3D precedural jellyfish"
+
+    github: "https://github.com/kevinwd2401/hw03-jellyfish"
+
+  - title: "Rigged Character Model"
+    image: "/images/3d/shaded_character.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Maya,Blender"
+
+    description: "An original 3D character, fully rigged and textured"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/3d/character-model/"
+
+  - title: "Abstract Environment"
+    image: "/images/3d/foggyEnvironment.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Blender,Maya"
+
+    description: "A surreal 3D environment render"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/3d/abstract-environment/"
+
+  - title: "Warship"
+    image: "/images/3d/shipsilhouette3.jpg"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Maya"
+
+    description: "A render of a 1940s destroyer model, based on blueprint schematics"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/3d/warship/"
+
+  - title: "Pool"
+    image: "/images/3d/poolroom.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Blender"
+
+    description: "A render of a liminal space, meant to evoke nostalgia and unease"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    # link: "/projects/mini-minecraft/"
+
+  - title: "Spacecraft"
+    image: "/images/3d/spaceship1.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Blender"
+
+    description: "A sci-fi spacecraft model, inspired by the Halo franchise"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    # link: "/projects/mini-minecraft/"

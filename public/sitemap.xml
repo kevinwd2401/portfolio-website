@@ -2,16 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/projects/building/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/catanks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/cricothyrotomy-sim/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/karts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/mechanika/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/mini-maya/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/pathtracer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/pbr/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/rhythm-motion/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/ship-game/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/stylizedmv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/unsettler/</loc>
+  </url><url>
+    <loc>http://localhost:1313/3d/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-dev/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/mini-minecraft/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/procedural-generation/</loc>
+  </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/unity/</loc>
   </url>
 </urlset>

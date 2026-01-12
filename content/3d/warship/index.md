@@ -1,0 +1,6 @@
+---
+title: "Warship"
+
+tags:
+  - Maya
+---

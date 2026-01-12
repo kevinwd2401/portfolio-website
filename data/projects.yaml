@@ -1,14 +1,162 @@
 projects:
+  - title: "Monte Carlo Pathtracer"
+    image: "/images/projects/waterboat.png"
+
+    tech: "C++,OpenGL,GLSL"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/pathtracer/"
+
+
+  - title: "Big Boat Battle"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unity,C#,HLSL,Render Textures"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/ship-game/"
+
+    # External repository
+    github: "https://github.com/kevinwd2401/procedural-boat-game"
+
+
+  - title: "VR Cricothyrotomy Simulator"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unity,C#"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/ship-game/"
+
+  - title: "Catanks"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unity,C#,HLSL,Shadergraph,Blender"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/catanks/"
+
+    # External repository
+    github: "https://github.com/pennupgrade/catanks"
+
   - title: "Mini Mincraft"
     image: "/images/projects/waterboat.png"
 
-    # Comma-separated because your template uses `split .tech ","`
-    tech: "Unity,Shaders,HLSL,Render Textures"
+    tech: "C++,OpenGL,GLSL"
 
     description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/mini-minecraft/"
 
+
+  - title: "3D Deferred Rendering Engine"
+    image: "/images/projects/waterboat.png"
+
+    tech: "C++,OpenGL,GLSL"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/pbr/"
+
+
+  - title: "Mini-Maya"
+    image: "/images/projects/waterboat.png"
+
+    tech: "QT Creator,C++,OpenGL"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/mini-maya/"
+
+  - title: "Stylized Scene MV"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unity,Shaders,HLSL,Blender"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/stylizedmv/"
+
     # External repository
-    # github: "https://github.com/kevinwd2401/procedural-boat-game"
+    github: "https://github.com/kevinwd2401/hw02-stylization"
+
+  - title: "Unsettler"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unreal Engine 5,C++,Blender"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/unsettler/"
+
+    # External repository
+    github: "https://github.com/kevinwd2401/unreal-spooky-game"
+
+  - title: "Procedural Tower"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Houdini"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/building/"
+
+    # External repository
+    github: "https://github.com/kevinwd2401/hw04-buildings"
+
+  - title: "Mechanika"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unity,C#"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/mechanika/"
+
+  # - title: "Rhythm Motion"
+  #   image: "/images/projects/waterboat.png"
+
+  #   tech: "Swift"
+
+  #   description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+  #   # Internal page on your site (Markdown page under content/projects/)
+  #   link: "/projects/rhythm-motion/"
+
+
+  - title: "2 Huge Pizzas"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unity,C#"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "https://sgmq0.itch.io/two-huge-pizza"
+
+
+  - title: "Fungal Fighters"
+    image: "/images/projects/waterboat.png"
+
+    tech: "Unity,C#"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "https://kevind3132.itch.io/fungus-fight"
+
