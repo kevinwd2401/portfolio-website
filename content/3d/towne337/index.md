@@ -5,7 +5,8 @@ tags:
   - Blender
 ---
 
-As 3D modelling practice, I attempt to replicate the likeness of a photo I took of a classroom after hours. I place emphasis on recreating the atmospheric lighting of the projector. 
+As 3D modelling practice, I attempt to replicate the likeness of a photo I took of a classroom after hours. I place emphasis on recreating the atmospheric lighting created by the projector. 
+
 
 |![](/images/3d/Towne337.png)|
 |:--:|

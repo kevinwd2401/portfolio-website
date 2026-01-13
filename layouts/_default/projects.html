@@ -24,7 +24,8 @@
                     
                     <div class="flex items-center gap-2">
                         <!-- Learn More button -->
-                        <a href="{{ .link }}"
+                        {{ with .link }}
+                        <a href="{{ . }}"
                         class="bg-accent-light/90 dark:bg-accent-dark/90 backdrop-blur-sm
                                 hover:bg-accent-light dark:hover:bg-accent-dark
                                 text-neutral-800 dark:text-white text-xs md:text-sm font-medium
@@ -43,6 +44,7 @@
                                     d="M14 5l7 7m0 0l-7 7m7-7H3" />
                             </svg>
                         </a>
+                        {{ end }}
 
                         {{ with .github }}
                         <!-- GitHub button -->

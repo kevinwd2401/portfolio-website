@@ -9,24 +9,17 @@
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/building/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/building/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/projects/catanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/catanks/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;https://store.steampowered.com/app/3793790/Catanks/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
       <link>http://localhost:1313/projects/cricothyrotomy-sim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/cricothyrotomy-sim/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://repository.upenn.edu/server/api/core/bitstreams/8563b416-0543-4fd9-b88c-43358351c59f/content&#34;&gt;https://repository.upenn.edu/server/api/core/bitstreams/8563b416-0543-4fd9-b88c-43358351c59f/content&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -75,7 +68,7 @@
       <link>http://localhost:1313/projects/ship-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/ship-game/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cPxqBuK4olA&#34;&gt;https://www.youtube.com/watch?v=cPxqBuK4olA&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

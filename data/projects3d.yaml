@@ -1,16 +1,5 @@
 projects3d:
 
-  - title: "Towne 337 Render"
-    image: "/images/3d/Towne337.png"
-
-    # Comma-separated because your template uses `split .tech ","`
-    tech: "Blender"
-
-    description: "An atmospheric 3D recreation of a reference photo"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "/3d/towne337/"
-
   - title: "Jellyfish"
     image: "/images/3d/jellyfish.png"
 
@@ -21,13 +10,33 @@ projects3d:
 
     github: "https://github.com/kevinwd2401/hw03-jellyfish"
 
+  - title: "Liver Anatomical Model"
+    image: "/images/3d/liver_model.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Blender"
+
+    description: "An anatomically correct liver model developed with Penn Medicine for education purposes"
+
+
+  - title: "Towne 337"
+    image: "/images/3d/Towne337.png"
+
+    # Comma-separated because your template uses `split .tech ","`
+    tech: "Blender"
+
+    description: "A 3D recreation of an atmospheric reference photo"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/3d/towne337/"
+
   - title: "Rigged Character Model"
     image: "/images/3d/shaded_character.png"
 
     # Comma-separated because your template uses `split .tech ","`
     tech: "Maya,Blender"
 
-    description: "An original 3D character, fully rigged and textured"
+    description: "An stylized 3D character, fully rigged and textured"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/3d/character-model/"
@@ -43,7 +52,7 @@ projects3d:
     # Internal page on your site (Markdown page under content/projects/)
     link: "/3d/abstract-environment/"
 
-  - title: "Warship"
+  - title: "Warship At Sea"
     image: "/images/3d/shipsilhouette3.jpg"
 
     # Comma-separated because your template uses `split .tech ","`
@@ -60,7 +69,7 @@ projects3d:
     # Comma-separated because your template uses `split .tech ","`
     tech: "Blender"
 
-    description: "A render of a liminal space, meant to evoke nostalgia and unease"
+    description: "A liminal space render, meant to evoke both nostalgia and unease"
 
     # Internal page on your site (Markdown page under content/projects/)
     # link: "/projects/mini-minecraft/"

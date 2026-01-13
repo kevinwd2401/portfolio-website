@@ -1,6 +1,6 @@
 projects:
   - title: "Monte Carlo Pathtracer"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/KevinDu_CustomMirrorBox.png"
 
     tech: "C++,OpenGL,GLSL"
 
@@ -11,9 +11,9 @@ projects:
 
 
   - title: "Big Boat Battle"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/ship_closeup_crop.png"
 
-    tech: "Unity,C#,HLSL,Render Textures"
+    tech: "Unity,C#,HLSL,Render Textures,Houdini"
 
     description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
 
@@ -25,7 +25,7 @@ projects:
 
 
   - title: "VR Cricothyrotomy Simulator"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/crico_demo_dark.png"
 
     tech: "Unity,C#"
 
@@ -35,7 +35,7 @@ projects:
     link: "/projects/ship-game/"
 
   - title: "Catanks"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/catank_campaign.jpg"
 
     tech: "Unity,C#,HLSL,Shadergraph,Blender"
 
@@ -47,8 +47,8 @@ projects:
     # External repository
     github: "https://github.com/pennupgrade/catanks"
 
-  - title: "Mini Mincraft"
-    image: "/images/projects/waterboat.png"
+  - title: "Mini Minecraft"
+    image: "/images/projects/minecraft_landscape.png"
 
     tech: "C++,OpenGL,GLSL"
 
@@ -59,7 +59,7 @@ projects:
 
 
   - title: "3D Deferred Rendering Engine"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/ssr_example.png"
 
     tech: "C++,OpenGL,GLSL"
 
@@ -68,19 +68,8 @@ projects:
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/pbr/"
 
-
-  - title: "Mini-Maya"
-    image: "/images/projects/waterboat.png"
-
-    tech: "QT Creator,C++,OpenGL"
-
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/mini-maya/"
-
   - title: "Stylized Scene MV"
-    image: "/images/projects/waterboat.png"
+    image: "https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png"
 
     tech: "Unity,Shaders,HLSL,Blender"
 
@@ -92,8 +81,18 @@ projects:
     # External repository
     github: "https://github.com/kevinwd2401/hw02-stylization"
 
+  - title: "Mini-Maya"
+    image: "/images/projects/cow_mesh.png"
+
+    tech: "QT Creator,C++,OpenGL"
+
+    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/mini-maya/"
+
   - title: "Unsettler"
-    image: "/images/projects/waterboat.png"
+    image: "https://private-user-images.githubusercontent.com/109395354/523357884-183b1fed-bc60-4bc9-8b2d-cc18aa4297b2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyNjIwNTksIm5iZiI6MTc2ODI2MTc1OSwicGF0aCI6Ii8xMDkzOTUzNTQvNTIzMzU3ODg0LTE4M2IxZmVkLWJjNjAtNGJjOS04YjJkLWNjMThhYTQyOTdiMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMlQyMzQ5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjM1YmZhN2QwNGFjZTQ3OWIzMWMwNmM0OTBjZjgyOTgwZDRiNDljYTEzZTRiNGE4MTk2ZWEwODliMjg5MzFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sxDPghX2QLhoGppP4uBVgdW3GX2q79uenDKvNDcE0pM"
 
     tech: "Unreal Engine 5,C++,Blender"
 
@@ -106,20 +105,20 @@ projects:
     github: "https://github.com/kevinwd2401/unreal-spooky-game"
 
   - title: "Procedural Tower"
-    image: "/images/projects/waterboat.png"
+    image: "https://private-user-images.githubusercontent.com/109395354/509928250-2e741018-cc6c-4b75-83b8-10e3400016ae.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyNjIxMTYsIm5iZiI6MTc2ODI2MTgxNiwicGF0aCI6Ii8xMDkzOTUzNTQvNTA5OTI4MjUwLTJlNzQxMDE4LWNjNmMtNGI3NS04M2I4LTEwZTM0MDAwMTZhZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMlQyMzUwMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMzc3MmQ2MTJjZDExM2NmZGZjY2YyNGJiMjk2YmMwZjY2ZGNlMDVlYzhlOTJmMTBlMWNjNWZiOGYyZmZlZTBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9l88hVv0uic4vpjMrfhfzDVQQbOsIT_QcVdFBJf_YOA"
 
     tech: "Houdini"
 
     description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
 
     # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/building/"
+    # link: "/projects/building/"
 
     # External repository
     github: "https://github.com/kevinwd2401/hw04-buildings"
 
   - title: "Mechanika"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/mechanika_gameplay2.png"
 
     tech: "Unity,C#"
 
@@ -140,7 +139,7 @@ projects:
 
 
   - title: "2 Huge Pizzas"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/2hp_gameplay2.png"
 
     tech: "Unity,C#"
 
@@ -151,7 +150,7 @@ projects:
 
 
   - title: "Fungal Fighters"
-    image: "/images/projects/waterboat.png"
+    image: "/images/projects/fungal_fighters.png"
 
     tech: "Unity,C#"
 
