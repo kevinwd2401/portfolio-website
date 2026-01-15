@@ -9,17 +9,17 @@
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/catanks/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/catanks/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;https://store.steampowered.com/app/3793790/Catanks/&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/projects/cricothyrotomy-sim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/cricothyrotomy-sim/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://repository.upenn.edu/server/api/core/bitstreams/8563b416-0543-4fd9-b88c-43358351c59f/content&#34;&gt;https://repository.upenn.edu/server/api/core/bitstreams/8563b416-0543-4fd9-b88c-43358351c59f/content&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/fireball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/fireball/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
@@ -44,13 +44,6 @@
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/pathtracer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pathtracer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
       <link>http://localhost:1313/projects/pbr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/pbr/</guid>
@@ -62,13 +55,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/rhythm-motion/</guid>
       <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/projects/ship-game/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/ship-game/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cPxqBuK4olA&#34;&gt;https://www.youtube.com/watch?v=cPxqBuK4olA&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
@@ -85,11 +71,32 @@
       <description></description>
     </item>
     <item>
+      <title>Big Boat Battle</title>
+      <link>http://localhost:1313/projects/ship-game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/ship-game/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cPxqBuK4olA&#34;&gt;https://www.youtube.com/watch?v=cPxqBuK4olA&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Catanks</title>
+      <link>http://localhost:1313/projects/catanks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/catanks/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;Catanks&lt;/a&gt; is UPGRADE’s 2024–2025 semester project, released on &lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;Steam&lt;/a&gt; as a top-down arcade tank shooter. As producer and one of 2 lead developers, I worked closely with 10+ programmers and coordinated the game’s asset and production pipelines.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for much of the core game design and game mechanics programming during the first stage of planning, before shifting my focus to developing the Classic Mode inspired by Wii Tanks. This included implementing advanced enemy AI and pathfinding systems using state machines and bullet-dodging behaviors to give the players a meaningful challenge.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Mini Minecraft</title>
       <link>http://localhost:1313/projects/mini-minecraft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/mini-minecraft/</guid>
       <description>&lt;p&gt;This is the first paragraph.&lt;/p&gt;&#xA;&lt;p&gt;This is the second paragraph.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;This text is bold.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Procedural terrain&lt;/li&gt;&#xA;&lt;li&gt;Block placement&lt;/li&gt;&#xA;&lt;li&gt;Basic lighting&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;screenshot&#34;&gt;Screenshot&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/projects/waterboat.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;More text here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Monte Carlo Path Tracer</title>
+      <link>http://localhost:1313/projects/pathtracer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pathtracer/</guid>
+      <description>&lt;p&gt;This Monte Carlo path tracer is implemented in GLSL, with the majority of computation performed on the GPU. The renderer draws on concepts from &lt;em&gt;Physically Based Rendering&lt;/em&gt; and casts rays per fragment from the camera through each pixel, simulating multiple light bounces. At each bounce, direct light sampling is weighted and contributes to the overall radiance.&lt;/p&gt;&#xA;&lt;p&gt;The path tracer implements image-based environment lighting for global illumination, different types of lights and materials/BDSFs, and uses multiple importance sampling to improve convergence speed and reduce noise.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,10 +1,10 @@
 projects:
-  - title: "Monte Carlo Pathtracer"
+  - title: "Monte Carlo Path Tracer"
     image: "/images/projects/KevinDu_CustomMirrorBox.png"
 
     tech: "C++,OpenGL,GLSL"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "GPU Pathtracer supporting MIS direct lighting and global illumination"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/pathtracer/"
@@ -13,9 +13,9 @@ projects:
   - title: "Big Boat Battle"
     image: "/images/projects/ship_closeup_crop.png"
 
-    tech: "Unity,C#,HLSL,Render Textures,Houdini"
+    tech: "Unity,C#,HLSL,Houdini"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "A top-down combat game, incorporating real-time interactive volumetric fog and water ripples using render textures"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/ship-game/"
@@ -29,7 +29,7 @@ projects:
 
     tech: "Unity,C#"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "Educational VR module for cricothyrotomy procedure training"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/ship-game/"
@@ -39,7 +39,7 @@ projects:
 
     tech: "Unity,C#,HLSL,Shadergraph,Blender"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "A top-down arcade shooter featuring cats, as well as many different modes, maps, and enemies. Published on Steam!"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/catanks/"
@@ -52,7 +52,7 @@ projects:
 
     tech: "C++,OpenGL,GLSL"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "3D voxel game engine"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/mini-minecraft/"
@@ -63,17 +63,17 @@ projects:
 
     tech: "C++,OpenGL,GLSL"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "Real-time physically-based renderer with image-based environment lighting and SSR"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/pbr/"
 
-  - title: "Stylized Scene MV"
+  - title: "Stylized Scene"
     image: "https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png"
 
     tech: "Unity,Shaders,HLSL,Blender"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "An animated Unity scene inspired by Madoka Magica, featuring toon shading and custom shaders for a stylized MV presentation"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/stylizedmv/"
@@ -81,12 +81,22 @@ projects:
     # External repository
     github: "https://github.com/kevinwd2401/hw02-stylization"
 
+  - title: "Fireball"
+    image: "https://github.com/kevinwd2401/hw01-fireball/raw/master/fireball.png"
+
+    tech: "TypeScript,OpenGL,GLSL"
+
+    description: "Procedural fireball shader controlled by multiple parameters"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/fireball/"
+
   - title: "Mini-Maya"
     image: "/images/projects/cow_mesh.png"
 
     tech: "QT Creator,C++,OpenGL"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "Mesh editor replicating core functionality found in 3D modeling software"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/mini-maya/"
@@ -96,7 +106,7 @@ projects:
 
     tech: "Unreal Engine 5,C++,Blender"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "An RPG horror game where the player must navigate a house while avoiding the creatures lurking in the dark"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/unsettler/"
@@ -109,7 +119,7 @@ projects:
 
     tech: "Houdini"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "An abstract and minimalist-themed procedural building generator"
 
     # Internal page on your site (Markdown page under content/projects/)
     # link: "/projects/building/"
@@ -122,9 +132,9 @@ projects:
 
     tech: "Unity,C#"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "2D sci-fi bullet-hell rhythm game with VN elements"
 
-    # Internal page on your site (Markdown page under content/projects/)
+    # Internal page on your site (Markdown pagder content/projects/)
     link: "/projects/mechanika/"
 
   # - title: "Rhythm Motion"
@@ -143,7 +153,7 @@ projects:
 
     tech: "Unity,C#"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "Retro Quake-inspired maze first-person shooter demo"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "https://sgmq0.itch.io/two-huge-pizza"
@@ -154,7 +164,7 @@ projects:
 
     tech: "Unity,C#"
 
-    description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
+    description: "2D grid-based card battler"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "https://kevind3132.itch.io/fungus-fight"

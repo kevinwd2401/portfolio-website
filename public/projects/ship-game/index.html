@@ -3,7 +3,7 @@
     <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title> - Kevin Du</title>
+        <title>Big Boat Battle - Kevin Du</title>
         
         
         <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313//favicon_io/apple-touch-icon.png">
@@ -114,6 +114,7 @@
     <style>
         body {
             font-family: 'Space Grotesk', sans-serif;
+            padding-top: var(--header-offset, 0px);
         }
         .language-switcher {
             position: relative;
@@ -155,7 +156,7 @@
         }
     </style>
 </head>
-<header class="py-6 relative">
+<header id="site-header" class="fixed top-0 inset-x-0 z-40 py-6 bg-bg-secondary-light/80 dark:bg-bg-secondary-dark/80 backdrop-blur-2xl border-b border-black/5 dark:border-white/5">
     <div class="max-w-6xl mx-auto px-4">
         <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
             <div class="flex justify-between items-center">
@@ -374,6 +375,16 @@
             closeMobileMenu();
         }
     });
+
+    function updateHeaderOffset() {
+        const header = document.getElementById('site-header');
+        if (!header) return;
+        document.documentElement.style.setProperty('--header-offset', `${header.offsetHeight}px`);
+    }
+
+    window.addEventListener('load', updateHeaderOffset);
+    window.addEventListener('resize', updateHeaderOffset);
+    updateHeaderOffset();
 </script> 
         <main>
             
@@ -381,11 +392,31 @@
     <article>
         <header class="mb-4">
             <h1 class="text-3xl font-bold leading-tight">
-                
+                Big Boat Battle
             </h1>
         </header>
 
         <div class="flex flex-wrap gap-2 mb-10">
+            
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                Unity
+            </span>
+            
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                C#
+            </span>
+            
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                HLSL
+            </span>
+            
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                Shadergraph
+            </span>
+            
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                Houdini
+            </span>
             
         </div>
 
@@ -407,7 +438,7 @@
                 
                 
                 <p class="text-text-secondary-light dark:text-text-secondary-dark text-xm ">© 2026 Kevin Du</p>
-                <p class="text-text-secondary-light dark:text-text-secondary-dark text-xm pb-12">Built using <a href="https://gohugo.io/" target="_blank" class="animated-link text-accent-light dark:text-accent-dark hover:text-text-primary-light dark:hover:text-text-primary-dark">Hugo</a>. Take a look at my <a href="https://github.com/kevinwd2401" target="_blank" class="animated-link text-accent-light dark:text-accent-dark hover:text-text-primary-light dark:hover:text-text-primary-dark">GitHub</a></p>
+                
                 
             </div>
         </div>
