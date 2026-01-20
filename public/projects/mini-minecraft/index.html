@@ -399,33 +399,41 @@
         <div class="flex flex-wrap gap-2 mb-10">
             
             <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
-                Unity
+                C&#43;&#43;
             </span>
             
             <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
-                Game Dev
+                OpenGL
             </span>
             
             <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
-                Procedural Generation
+                GLSL
             </span>
             
         </div>
 
 
         <section class="markdown">
-            <p>This is the first paragraph.</p>
-<p>This is the second paragraph.</p>
-<p><strong>This text is bold.</strong></p>
-<h2 id="features">Features</h2>
+            <p><img src="../../images/projects/minecraft_landscape.png" alt=""></p>
+<p>My team and I built a 3D game engine inspired by Minecraft, using C++ and GLSL. This experience taught me a lot about GPU rendering pipelines. My contributions include:</p>
 <ul>
-<li>Procedural terrain</li>
-<li>Block placement</li>
-<li>Basic lighting</li>
+<li>Procedural biome assets</li>
+<li>Procedural biome grass coloring</li>
+<li>Water waves and specular reflection</li>
+<li>Post-process camera overlay for water and lava</li>
+<li>Distance fog</li>
+<li>Player physics</li>
+<li>Procedural cave generation</li>
 </ul>
-<h2 id="screenshot">Screenshot</h2>
-<p><img src="../../images/projects/waterboat.png" alt=""></p>
-<p>More text here.</p>
+<h3 id="procedural-assets">Procedural Assets</h3>
+<p>I created 3 procedural assets: normal trees, pine trees, and ice spikes. Their sizes and appearances sample their y-positions as an efficient way to obtain randomness. They are placed along the x-z-plane with poisson disk-sampling to keep them roughly evenly spaced within their chunk.</p>
+<h3 id="procedural-grass-coloring">Procedural Grass Coloring</h3>
+<p>Using the 2 Perlin noise functions which determine the biomes, I interpolate between multiple different grass colors in the lambert fragment shader for grass blocks.</p>
+<h3 id="water-waves">Water Waves</h3>
+<p>The water from the fragment shader is distorted using the sum of multiple sine waves. Using the partial derivatives of this sine function, I calculate the normals at each point and then use the current direction of the animated sun to add the specular highlights.</p>
+<h3 id="post-processing">Post-Processing</h3>
+<p><img src="../../images/projects/minecraft_water.png" alt="">
+When in water and lava, I use a vignette, followed by a distortion the screen&rsquo;s UV coordinates with Perlin noise. For the water, I use a blue tint to make the screen appear desaturated, and I use a red tint with more Perlin noise when in lava to try to imitate the viscosity. When in lava, red-tinted distance fog is enabled to emulate the Minecraft lava’s opacity.</p>
 
         </section>
     </article>

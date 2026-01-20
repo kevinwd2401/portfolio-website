@@ -32,7 +32,7 @@ projects:
     description: "Educational VR module for cricothyrotomy procedure training"
 
     # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/ship-game/"
+    link: "/projects/cricothyrotomy-sim/"
 
   - title: "Catanks"
     image: "/images/projects/catank_campaign.jpg"
@@ -58,7 +58,7 @@ projects:
     link: "/projects/mini-minecraft/"
 
 
-  - title: "3D Deferred Rendering Engine"
+  - title: "3D Deferred Renderer"
     image: "/images/projects/ssr_example.png"
 
     tech: "C++,OpenGL,GLSL"
@@ -102,7 +102,7 @@ projects:
     link: "/projects/mini-maya/"
 
   - title: "Unsettler"
-    image: "https://private-user-images.githubusercontent.com/109395354/523357884-183b1fed-bc60-4bc9-8b2d-cc18aa4297b2.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyNjIwNTksIm5iZiI6MTc2ODI2MTc1OSwicGF0aCI6Ii8xMDkzOTUzNTQvNTIzMzU3ODg0LTE4M2IxZmVkLWJjNjAtNGJjOS04YjJkLWNjMThhYTQyOTdiMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMlQyMzQ5MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03MjM1YmZhN2QwNGFjZTQ3OWIzMWMwNmM0OTBjZjgyOTgwZDRiNDljYTEzZTRiNGE4MTk2ZWEwODliMjg5MzFjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sxDPghX2QLhoGppP4uBVgdW3GX2q79uenDKvNDcE0pM"
+    image: "/images/projects/unsettler.png"
 
     tech: "Unreal Engine 5,C++,Blender"
 
@@ -115,7 +115,7 @@ projects:
     github: "https://github.com/kevinwd2401/unreal-spooky-game"
 
   - title: "Procedural Tower"
-    image: "https://private-user-images.githubusercontent.com/109395354/509928250-2e741018-cc6c-4b75-83b8-10e3400016ae.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyNjIxMTYsIm5iZiI6MTc2ODI2MTgxNiwicGF0aCI6Ii8xMDkzOTUzNTQvNTA5OTI4MjUwLTJlNzQxMDE4LWNjNmMtNGI3NS04M2I4LTEwZTM0MDAwMTZhZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMlQyMzUwMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMzc3MmQ2MTJjZDExM2NmZGZjY2YyNGJiMjk2YmMwZjY2ZGNlMDVlYzhlOTJmMTBlMWNjNWZiOGYyZmZlZTBiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.9l88hVv0uic4vpjMrfhfzDVQQbOsIT_QcVdFBJf_YOA"
+    image: "/images/projects/procedural_tower.png"
 
     tech: "Houdini"
 

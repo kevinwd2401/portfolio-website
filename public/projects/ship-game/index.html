@@ -422,7 +422,50 @@
 
 
         <section class="markdown">
-            <p><a href="https://www.youtube.com/watch?v=cPxqBuK4olA">https://www.youtube.com/watch?v=cPxqBuK4olA</a></p>
+            <p><img src="../../images/projects/ship_demo_gif.gif" alt=""></p>
+<p>This my top-down combat game where you pilot a toy boat against waves of enemy ships within a foggy pool! Some interesting features include:</p>
+<ul>
+<li><strong>Volumetric Fog</strong>, which can be parted by objects which attenuate the fog density</li>
+<li><strong>Procedural Water</strong> with Ripples using render textures and a wave shader</li>
+<li>Render texture scrolling to follow the player across a potentially infinite map</li>
+<li>Boid NPC behaviors to create enemy ship formations</li>
+<li>Procedural behavior generation for enemies, with possible states depending on assigned tasks and enemy type</li>
+<li><strong>Procedural enemies</strong>, with varying coloration, decoration, and armaments based on enemy types</li>
+<li>A variety of ships procedurally modelled in Houdini</li>
+</ul>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img src="../../images/projects/ship_closeup_crop.png" alt=""></th>
+          <th style="text-align: center"><img src="../../images/projects/boat_houdini.png" alt=""></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">In-game prototyping</td>
+          <td style="text-align: center">Houdini modelling</td>
+      </tr>
+  </tbody>
+</table>
+<p>Demo Video: <a href="https://www.youtube.com/watch?v=cPxqBuK4olA">https://www.youtube.com/watch?v=cPxqBuK4olA</a></p>
+<hr>
+<h2 id="render-textures">Render Textures</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img src="../../images/projects/ship_ripple_tex.png" alt=""></th>
+          <th style="text-align: center"><img src="../../images/projects/waterboat.png" alt=""></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">Render Textures for Water Ripples</td>
+          <td style="text-align: center">Fog Attenuation</td>
+      </tr>
+  </tbody>
+</table>
+<p>The <strong>procedural water</strong> is created using noise and sine waves displaced by time. To create the ripples, a top-down orthographic camera renders water-interacting objects to a collision render texture (RT) for wave creation. Next, an additive blend shader takes the current frame&rsquo;s wave RT and blends it with this collision RT. Lastly, a wave fragment shader reads current frame and previous frame wave RT, computing next frame&rsquo;s wave RT with simple propogation and damping. This render texture is sampled by the water shader and used to distort the normals.</p>
+<p>For the <strong>volumetric fog</strong>, a top-down orthographic camera similarly renders fog-interacting objects to a collision render texture, before an additive blend shader blends it with the current frame&rsquo;s fog RT. The render texture is dampened every frame to simulate the fog filling the space back up, and this is read by the fog raymarcher for density attenuation.</p>
 
         </section>
     </article>

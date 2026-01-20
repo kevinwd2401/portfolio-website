@@ -8,6 +8,13 @@
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/glsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Mini Minecraft</title>
+      <link>http://localhost:1313/projects/mini-minecraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/mini-minecraft/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/projects/minecraft_landscape.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My team and I built a 3D game engine inspired by Minecraft, using C++ and GLSL. This experience taught me a lot about GPU rendering pipelines. My contributions include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Procedural biome assets&lt;/li&gt;&#xA;&lt;li&gt;Procedural biome grass coloring&lt;/li&gt;&#xA;&lt;li&gt;Water waves and specular reflection&lt;/li&gt;&#xA;&lt;li&gt;Post-process camera overlay for water and lava&lt;/li&gt;&#xA;&lt;li&gt;Distance fog&lt;/li&gt;&#xA;&lt;li&gt;Player physics&lt;/li&gt;&#xA;&lt;li&gt;Procedural cave generation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;procedural-assets&#34;&gt;Procedural Assets&lt;/h3&gt;&#xA;&lt;p&gt;I created 3 procedural assets: normal trees, pine trees, and ice spikes. Their sizes and appearances sample their y-positions as an efficient way to obtain randomness. They are placed along the x-z-plane based on simple noise, with their numbers limited per chunk.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Monte Carlo Path Tracer</title>
       <link>http://localhost:1313/projects/pathtracer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
