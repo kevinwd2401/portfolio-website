@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Houdini on Kevin Du</title><link>https://kevindu.dev/tags/houdini/</link><description>Recent content in Houdini on Kevin Du</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://kevindu.dev/tags/houdini/index.xml" rel="self" type="application/rss+xml"/><item><title>Big Boat Battle</title><link>https://kevindu.dev/projects/ship-game/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kevindu.dev/projects/ship-game/</guid><description>&lt;p&gt;&lt;img src="../../images/projects/ship_demo_gif.gif" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;This my top-down combat game where you pilot a toy boat against waves of enemy ships within a foggy pool! Some interesting features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Volumetric Fog&lt;/strong&gt;, which can be parted by objects which attenuate the fog density&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Procedural Water&lt;/strong&gt; with Ripples using render textures and a wave shader&lt;/li&gt;
+&lt;li&gt;Render texture scrolling to follow the player across a potentially infinite map&lt;/li&gt;
+&lt;li&gt;Boid NPC behaviors to create enemy ship formations&lt;/li&gt;
+&lt;li&gt;Procedural behavior generation for enemies, with possible states depending on assigned tasks and enemy type&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Procedural enemies&lt;/strong&gt;, with varying coloration, decoration, and armaments based on enemy types&lt;/li&gt;
+&lt;li&gt;A variety of ships procedurally modelled in Houdini&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: center"&gt;&lt;img src="../../images/projects/ship_closeup_crop.png" alt=""&gt;&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;&lt;img src="../../images/projects/boat_houdini.png" alt=""&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: center"&gt;In-game prototyping&lt;/td&gt;
+ &lt;td style="text-align: center"&gt;Houdini modelling&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Demo Video: &lt;em&gt;&lt;a href="https://www.youtube.com/watch?v=cPxqBuK4olA"&gt;https://www.youtube.com/watch?v=cPxqBuK4olA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>

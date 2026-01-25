@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>C++ on Kevin Du</title><link>https://kevindu.dev/tags/c++/</link><description>Recent content in C++ on Kevin Du</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://kevindu.dev/tags/c++/index.xml" rel="self" type="application/rss+xml"/><item><title>Mini Minecraft</title><link>https://kevindu.dev/projects/mini-minecraft/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kevindu.dev/projects/mini-minecraft/</guid><description>&lt;p&gt;&lt;img src="../../images/projects/minecraft_landscape.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;My team and I built a voxel game engine inspired by Minecraft, using C++ and GLSL. This experience taught me a lot about GPU rendering pipelines. My contributions include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Procedural biome assets&lt;/li&gt;
+&lt;li&gt;Procedural biome grass coloring&lt;/li&gt;
+&lt;li&gt;Water waves and specular reflection&lt;/li&gt;
+&lt;li&gt;Post-process camera overlay for water and lava&lt;/li&gt;
+&lt;li&gt;Distance fog&lt;/li&gt;
+&lt;li&gt;Player physics&lt;/li&gt;
+&lt;li&gt;Procedural cave generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="procedural-assets"&gt;Procedural Assets&lt;/h3&gt;
+&lt;p&gt;I created 3 procedural assets: normal trees, pine trees, and ice spikes. Their sizes and appearances sample their y-positions as an efficient way to obtain randomness. They are placed along the x-z-plane with poisson disk-sampling to keep them roughly evenly spaced within their chunk.&lt;/p&gt;</description></item><item><title>Mini-Maya</title><link>https://kevindu.dev/projects/mini-maya/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kevindu.dev/projects/mini-maya/</guid><description>&lt;p&gt;&lt;img src="../../images/projects/cow_mesh.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;I developed a basic mesh editor that replicates core functionality found in modern 3D modeling software. The editor is built around a half-edge data structure, which is what many widely used modeling tools are based on. Through the interface, users can load &lt;em&gt;.obj&lt;/em&gt; files and directly manipulate mesh vertices. Supported operations include Catmull–Clark subdivision, face triangulation, edge splitting, and face extrusion.&lt;/p&gt;</description></item><item><title>Monte Carlo Path Tracer</title><link>https://kevindu.dev/projects/pathtracer/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kevindu.dev/projects/pathtracer/</guid><description>&lt;p&gt;This Monte Carlo path tracer is implemented in GLSL, with the majority of computation performed on the GPU. The renderer draws on concepts from &lt;em&gt;Physically Based Rendering&lt;/em&gt; and casts rays per fragment from the camera through each pixel, simulating multiple light bounces. At each bounce, direct light sampling is weighted and contributes to the overall radiance.&lt;/p&gt;
+&lt;p&gt;The path tracer implements image-based environment lighting for global illumination, different types of lights and materials/BDSFs, and uses multiple importance sampling to improve convergence speed and reduce noise.&lt;/p&gt;</description></item><item><title>Real-Time Physically-Based Shaders</title><link>https://kevindu.dev/projects/pbr/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kevindu.dev/projects/pbr/</guid><description>&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: center"&gt;&lt;img src="../../images/projects/gi_example.png" alt=""&gt;&lt;/th&gt;
+ &lt;th style="text-align: center"&gt;&lt;img src="../../images/projects/gi_example2.png" alt=""&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;This shading model was implemented as part of our Advanced Rendering class, based on the real-time shading model used in &lt;a href="https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf"&gt;Unreal Engine 4&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;In our fragment shader, we implement the Torrance-Sparrow microfacet model, using approximations such as the Schlick’s approximation for fresnel term and Schlick-GGX for geometric attenuation. For image-based lighting, we precompute the diffuse and glossy irradiance with different blur thresholds via mipmaps and store it in cube textures for sampling. Also implmented are normal/displacement maps and albedo maps.&lt;/p&gt;</description></item><item><title>Unsettler</title><link>https://kevindu.dev/projects/unsettler/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://kevindu.dev/projects/unsettler/</guid><description>&lt;p&gt;&lt;img src="../../images/projects/unsettler.png" alt=""&gt;&lt;/p&gt;
+&lt;p&gt;This horror game challenges players to navigate maze-like levels, solve puzzles, and reach the exit points while avoiding hostile entities hidden in the dark.&lt;/p&gt;
+&lt;p&gt;I was responsible for the monster NPCs, level layout, and lighting. Each of the three different types of creatures feature unique mechanics and behaviors. For example, one of them investigates the sounds of the player&amp;rsquo;s footsteps, and another only moves when out of the player&amp;rsquo;s line of sight, making for suspenseful gameplay. My work on lighting and post-processing shaders help reinforce the eerie horror aesthetic.&lt;/p&gt;</description></item></channel></rss>
