@@ -10,7 +10,7 @@ tags:
 
 ![](/images/projects/minecraft_landscape.png)
 
-My team and I built a 3D game engine inspired by Minecraft, using C++ and GLSL. This experience taught me a lot about GPU rendering pipelines. My contributions include: 
+My team and I built a voxel game engine inspired by Minecraft, using C++ and GLSL. This experience taught me a lot about GPU rendering pipelines. My contributions include: 
 - Procedural biome assets
 - Procedural biome grass coloring
 - Water waves and specular reflection

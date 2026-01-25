@@ -63,7 +63,7 @@ projects:
 
     tech: "C++,OpenGL,GLSL"
 
-    description: "Real-time physically-based renderer with image-based environment lighting and SSR"
+    description: "Real-time physically-based rendering with image-based environment lighting and SSR"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/pbr/"
@@ -73,7 +73,7 @@ projects:
 
     tech: "Unity,Shaders,HLSL,Blender"
 
-    description: "An animated Unity scene inspired by Madoka Magica, featuring toon shading and custom shaders for a stylized MV presentation"
+    description: "An animated Unity scene featuring toon shading, custom shaders, and stylized VFX"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/stylizedmv/"
@@ -106,7 +106,7 @@ projects:
 
     tech: "Unreal Engine 5,C++,Blender"
 
-    description: "An RPG horror game where the player must navigate a house while avoiding the creatures lurking in the dark"
+    description: "An RPG horror game where the player must navigate a maze while avoiding the creatures lurking in the dark"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/unsettler/"
@@ -164,7 +164,7 @@ projects:
 
     tech: "Unity,C#"
 
-    description: "2D grid-based card battler"
+    description: "2D grid-based card battler game"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "https://kevind3132.itch.io/fungus-fight"

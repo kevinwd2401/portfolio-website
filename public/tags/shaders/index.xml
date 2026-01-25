@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shaders on Kevin Du</title>
+    <link>http://localhost:1313/tags/shaders/</link>
+    <description>Recent content in Shaders on Kevin Du</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/shaders/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stylized Scene MV</title>
+      <link>http://localhost:1313/projects/stylizedmv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/stylizedmv/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the Stylized Scene project in my (CIS 5660) Procedural Graphics class, I created a &lt;em&gt;Madoka Magica&lt;/em&gt;-inpsired animated scene. I created a main stylized toon shader and many other decorative shaders to use within the scene, including a stop-motion water shader.&lt;/p&gt;&#xA;&lt;p&gt;To add to the scene’s chaotic yet melancholic atmosphere, I implemented multiple full-screen post-processing effects, including a hand-drawn, scribble-style outline shader, as well as other custom visual effects.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

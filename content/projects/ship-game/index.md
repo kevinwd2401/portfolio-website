@@ -25,7 +25,7 @@ This my top-down combat game where you pilot a toy boat against waves of enemy s
 |:---:|:---:|
 |In-game prototyping|Houdini modelling|
 
-Demo Video: https://www.youtube.com/watch?v=cPxqBuK4olA
+Demo Video: _https://www.youtube.com/watch?v=cPxqBuK4olA_
 
 
 ------
