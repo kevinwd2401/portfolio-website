@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = false
 
   [[menu.main]]
     name = "3D"
-    pageRef = "/3d"
+    pageRef = "/art"
     weight = 2
 
   [[menu.main]]

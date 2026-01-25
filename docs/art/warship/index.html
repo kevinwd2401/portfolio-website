@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Procedural Fireball - Kevin Du</title>
+        <title>Warship - Kevin Du</title>
         
         
         <link rel="apple-touch-icon" sizes="180x180" href="https://kevindu.dev//favicon_io/apple-touch-icon.png">
@@ -177,9 +177,9 @@
             
             <nav class="hidden md:flex flex-wrap ml-auto mr-12 items-center gap-4 md:gap-6">
                 
-                <a href="https://kevindu.dev/projects/" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 text-accent-light dark:text-accent-dark font-semibold">Projects</a>
+                <a href="https://kevindu.dev/projects/" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 ">Projects</a>
                 
-                <a href="https://kevindu.dev/art/" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 ">3D</a>
+                <a href="https://kevindu.dev/art/" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 text-accent-light dark:text-accent-dark font-semibold">3D</a>
                 
                 <a href="https://kevindu.dev/contact" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 ">Contact</a>
                 
@@ -234,9 +234,9 @@
         </div>
         <nav class="flex flex-col p-6 space-y-4">
             
-            <a href="https://kevindu.dev/projects/" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 text-accent-light dark:text-accent-dark font-semibold" data-menu-link>Projects</a>
+            <a href="https://kevindu.dev/projects/" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 " data-menu-link>Projects</a>
             
-            <a href="https://kevindu.dev/art/" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 " data-menu-link>3D</a>
+            <a href="https://kevindu.dev/art/" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 text-accent-light dark:text-accent-dark font-semibold" data-menu-link>3D</a>
             
             <a href="https://kevindu.dev/contact" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 " data-menu-link>Contact</a>
             
@@ -395,33 +395,24 @@
     <article>
         <header class="mb-4">
             <h1 class="text-3xl font-bold leading-tight">
-                Procedural Fireball
+                Warship
             </h1>
         </header>
 
         <div class="flex flex-wrap gap-2 mb-10">
             
             <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
-                TypeScript
-            </span>
-            
-            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
-                OpenGL
-            </span>
-            
-            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
-                GLSL
+                Maya
             </span>
             
         </div>
 
 
         <section class="markdown">
-            <p><img src="https://github.com/kevinwd2401/hw01-fireball/raw/master/fireball.png" alt=""></p>
-<p>I create a procedural fireball with a shader in GLSL. We start by rendering a base sphere mesh, which is then deformed through stretching, tapering with bias and gain functions, and then oscillated with trig functions.</p>
-<p>The chaotic appearance is caused by radial displacement, driven by FBM Perlin noise scrolling upwards. Additional trig oscillations along the X and Z axes mimic a strong flame. The fragment shader applies discrete color banding, interpolated between two color parameters by FBM noise and then layered on top of a base color gradient.</p>
-<p>I promise it looks a bit cooler in the Live Demo!</p>
-<p>Live Demo Link: <a href="https://kevinwd2401.github.io/hw01-fireball/"><em>https://kevinwd2401.github.io/hw01-fireball/</em></a></p>
+            <p>I love WWII naval history, so as a modeling exercise, I created an accurate base model of the WWII destroyer <em>IJN Shimakaze</em> using original blueprint schematics as reference. The asset was modelled for distant renders, with detail intentionally limited at the base-model level to prioritize efficiency. All modeling, texturing, lighting, and volumetrics were done in Maya.</p>
+<p><img src="../../images/3d/ship_model.png" alt=""></p>
+<p><img src="../../images/3d/shipnoisy.jpg" alt=""></p>
+<p><img src="../../images/3d/shipsilhouette3.jpg" alt=""></p>
 
         </section>
     </article>

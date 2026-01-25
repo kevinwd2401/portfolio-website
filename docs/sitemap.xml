@@ -6,7 +6,9 @@
   </url><url>
     <loc>https://kevindu.dev/projects/rhythm-motion/</loc>
   </url><url>
-    <loc>https://kevindu.dev/3d/</loc>
+    <loc>https://kevindu.dev/art/</loc>
+  </url><url>
+    <loc>https://kevindu.dev/art/abstract-environment/</loc>
   </url><url>
     <loc>https://kevindu.dev/projects/ship-game/</loc>
   </url><url>
@@ -30,6 +32,8 @@
   </url><url>
     <loc>https://kevindu.dev/</loc>
   </url><url>
+    <loc>https://kevindu.dev/tags/maya/</loc>
+  </url><url>
     <loc>https://kevindu.dev/projects/mechanika/</loc>
   </url><url>
     <loc>https://kevindu.dev/projects/mini-minecraft/</loc>
@@ -46,6 +50,8 @@
   </url><url>
     <loc>https://kevindu.dev/projects/pbr/</loc>
   </url><url>
+    <loc>https://kevindu.dev/art/character-model/</loc>
+  </url><url>
     <loc>https://kevindu.dev/tags/shadergraph/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/shaders/</loc>
@@ -53,6 +59,8 @@
     <loc>https://kevindu.dev/projects/stylizedmv/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/</loc>
+  </url><url>
+    <loc>https://kevindu.dev/art/towne337/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/typescript/</loc>
   </url><url>
@@ -63,5 +71,7 @@
     <loc>https://kevindu.dev/projects/unsettler/</loc>
   </url><url>
     <loc>https://kevindu.dev/projects/cricothyrotomy-sim/</loc>
+  </url><url>
+    <loc>https://kevindu.dev/art/warship/</loc>
   </url>
 </urlset>

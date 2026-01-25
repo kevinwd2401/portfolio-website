@@ -22,11 +22,11 @@
       <description></description>
     </item>
     <item>
-      <title>3D Projects/Art</title>
-      <link>https://kevindu.dev/3d/</link>
+      <title>Abstract Environment Render</title>
+      <link>https://kevindu.dev/art/abstract-environment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevindu.dev/3d/</guid>
-      <description></description>
+      <guid>https://kevindu.dev/art/abstract-environment/</guid>
+      <description>&lt;p&gt;In this 3D environment render, I explore an abstract space unconstrained by gravity or fixed orientations. The base assets were modeled in Maya, with lighting, composition, and character posing done in Blender, with assistance from my friend Yichen Huang. I also used this piece as an opportunity to experiment with volumetric fog to enhance depth and atmosphere.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/env_model.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/bevelledEnvironment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/foggyEnvironment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Big Boat Battle</title>
@@ -92,11 +92,25 @@
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/projects/gi_example.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/projects/gi_example2.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;This shading model was implemented as part of our Advanced Rendering class, based on the real-time shading model used in &lt;a href=&#34;https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf&#34;&gt;Unreal Engine 4&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In our fragment shader, we implement the Torrance-Sparrow microfacet model, using approximations such as the Schlick’s approximation for fresnel term and Schlick-GGX for geometric attenuation. For image-based lighting, we precompute the diffuse and glossy irradiance with different blur thresholds via mipmaps and store it in cube textures for sampling. Also implmented are normal/displacement maps and albedo maps.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Rigged Character Model</title>
+      <link>https://kevindu.dev/art/character-model/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/art/character-model/</guid>
+      <description>&lt;p&gt;I created this stylized original character to gain hands-on experience with the 3D character production pipeline. The base mesh was modeled in Maya, then transferred to Blender for sculpting, texturing, and rigging.&lt;/p&gt;&#xA;&lt;p&gt;Multiresolution sculpting was used to refine surface details, while the Hook and Surface Deform modifiers were applied to the cloak and accessories, such as the earring, to add physics and secondary motion while being controlled by the armature.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Stylized Scene MV</title>
       <link>https://kevindu.dev/projects/stylizedmv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kevindu.dev/projects/stylizedmv/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the Stylized Scene project in my (CIS 5660) Procedural Graphics class, I created a &lt;em&gt;Madoka Magica&lt;/em&gt;-inpsired animated scene. I created a main stylized toon shader and many other decorative shaders to use within the scene, including a stop-motion water shader.&lt;/p&gt;&#xA;&lt;p&gt;To add to the scene’s chaotic yet melancholic atmosphere, I implemented multiple full-screen post-processing effects, including a hand-drawn, scribble-style outline shader, as well as other custom visual effects.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Towne 337 Render</title>
+      <link>https://kevindu.dev/art/towne337/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/art/towne337/</guid>
+      <description>&lt;p&gt;As 3D modelling practice, I attempt to replicate the likeness of a photo I took of a classroom after hours. I place emphasis on recreating the atmospheric lighting created by the projector.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/3d/Towne337.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;My Recreation&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/3d/townereference.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/3d/towne_model.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Inspiration Photo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Flat shaded viewport view&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
       <title>Unsettler</title>
@@ -111,6 +125,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kevindu.dev/projects/cricothyrotomy-sim/</guid>
       <description>&lt;p&gt;As part of Penn Medicine through the PURM summer research internship, I developed a VR surgical airway trainer in Unity for Unity for Meta Quest 2, 3, and Pro headsets. A cricothyrotomy is a critical emergency airway procedure performed when conventional methods fail. Due to the rarity of such cases, hands-on experience is extremely limited. This VR simulator module addresses this issue, with the aim of being used alongside conventional medical education by improving procedural familiarity in a safe, repeatable environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Warship</title>
+      <link>https://kevindu.dev/art/warship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/art/warship/</guid>
+      <description>&lt;p&gt;I love WWII naval history, so as a modeling exercise, I created an accurate base model of the WWII destroyer &lt;em&gt;IJN Shimakaze&lt;/em&gt; using original blueprint schematics as reference. The asset was modelled for distant renders, with detail intentionally limited at the base-model level to prioritize efficiency. All modeling, texturing, lighting, and volumetrics were done in Maya.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/ship_model.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/shipnoisy.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/shipsilhouette3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

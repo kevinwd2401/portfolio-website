@@ -28,7 +28,7 @@ projects3d:
     description: "A 3D recreation of an atmospheric reference photo"
 
     # Internal page on your site (Markdown page under content/projects/)
-    link: "/3d/towne337/"
+    link: "/art/towne337/"
 
   - title: "Rigged Character Model"
     image: "/images/3d/shaded_character.png"
@@ -39,7 +39,7 @@ projects3d:
     description: "An stylized 3D character, fully rigged and textured"
 
     # Internal page on your site (Markdown page under content/projects/)
-    link: "/3d/character-model/"
+    link: "/art/character-model/"
 
   - title: "Abstract Environment"
     image: "/images/3d/foggyEnvironment.png"
@@ -50,7 +50,7 @@ projects3d:
     description: "A surreal 3D environment render"
 
     # Internal page on your site (Markdown page under content/projects/)
-    link: "/3d/abstract-environment/"
+    link: "/art/abstract-environment/"
 
   - title: "Warship At Sea"
     image: "/images/3d/shipsilhouette3.jpg"
@@ -61,7 +61,7 @@ projects3d:
     description: "A render of a 1940s destroyer model, based on blueprint schematics"
 
     # Internal page on your site (Markdown page under content/projects/)
-    link: "/3d/warship/"
+    link: "/art/warship/"
 
   - title: "Pool"
     image: "/images/3d/poolroom.png"
