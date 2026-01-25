@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kevin Du</title>
-    <link>https://kevinwd2401.github.io/portfolio-website/tags/</link>
+    <link>https://kevindu.dev/tags/</link>
     <description>Recent content in Tags on Kevin Du</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://kevinwd2401.github.io/portfolio-website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kevindu.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blender</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/blender/</link>
+      <link>https://kevindu.dev/tags/blender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/blender/</guid>
+      <guid>https://kevindu.dev/tags/blender/</guid>
       <description></description>
     </item>
     <item>
       <title>C#</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/c%23/</link>
+      <link>https://kevindu.dev/tags/c%23/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/c%23/</guid>
+      <guid>https://kevindu.dev/tags/c%23/</guid>
       <description></description>
     </item>
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/c&#43;&#43;/</link>
+      <link>https://kevindu.dev/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/c&#43;&#43;/</guid>
+      <guid>https://kevindu.dev/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     <item>
       <title>GLSL</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/glsl/</link>
+      <link>https://kevindu.dev/tags/glsl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/glsl/</guid>
+      <guid>https://kevindu.dev/tags/glsl/</guid>
       <description></description>
     </item>
     <item>
       <title>HLSL</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/hlsl/</link>
+      <link>https://kevindu.dev/tags/hlsl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/hlsl/</guid>
+      <guid>https://kevindu.dev/tags/hlsl/</guid>
       <description></description>
     </item>
     <item>
       <title>Houdini</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/houdini/</link>
+      <link>https://kevindu.dev/tags/houdini/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/houdini/</guid>
+      <guid>https://kevindu.dev/tags/houdini/</guid>
       <description></description>
     </item>
     <item>
       <title>OpenGL</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/opengl/</link>
+      <link>https://kevindu.dev/tags/opengl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/opengl/</guid>
+      <guid>https://kevindu.dev/tags/opengl/</guid>
       <description></description>
     </item>
     <item>
       <title>Shadergraph</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/shadergraph/</link>
+      <link>https://kevindu.dev/tags/shadergraph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/shadergraph/</guid>
+      <guid>https://kevindu.dev/tags/shadergraph/</guid>
       <description></description>
     </item>
     <item>
       <title>Shaders</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/shaders/</link>
+      <link>https://kevindu.dev/tags/shaders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/shaders/</guid>
+      <guid>https://kevindu.dev/tags/shaders/</guid>
       <description></description>
     </item>
     <item>
       <title>TypeScript</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/typescript/</link>
+      <link>https://kevindu.dev/tags/typescript/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/typescript/</guid>
+      <guid>https://kevindu.dev/tags/typescript/</guid>
       <description></description>
     </item>
     <item>
       <title>Unity</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/unity/</link>
+      <link>https://kevindu.dev/tags/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/unity/</guid>
+      <guid>https://kevindu.dev/tags/unity/</guid>
       <description></description>
     </item>
     <item>
       <title>Unreal Engine 5</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/tags/unreal-engine-5/</link>
+      <link>https://kevindu.dev/tags/unreal-engine-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/tags/unreal-engine-5/</guid>
+      <guid>https://kevindu.dev/tags/unreal-engine-5/</guid>
       <description></description>
     </item>
   </channel>

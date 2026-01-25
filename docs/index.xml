@@ -2,114 +2,114 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kevin Du</title>
-    <link>https://kevinwd2401.github.io/portfolio-website/</link>
+    <link>https://kevindu.dev/</link>
     <description>Recent content on Kevin Du</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://kevinwd2401.github.io/portfolio-website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kevindu.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/karts/</link>
+      <link>https://kevindu.dev/projects/karts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/karts/</guid>
+      <guid>https://kevindu.dev/projects/karts/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/rhythm-motion/</link>
+      <link>https://kevindu.dev/projects/rhythm-motion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/rhythm-motion/</guid>
+      <guid>https://kevindu.dev/projects/rhythm-motion/</guid>
       <description></description>
     </item>
     <item>
       <title>3D Projects/Art</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/3d/</link>
+      <link>https://kevindu.dev/3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/3d/</guid>
+      <guid>https://kevindu.dev/3d/</guid>
       <description></description>
     </item>
     <item>
       <title>Big Boat Battle</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/ship-game/</link>
+      <link>https://kevindu.dev/projects/ship-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/ship-game/</guid>
+      <guid>https://kevindu.dev/projects/ship-game/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/projects/ship_demo_gif.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This my top-down combat game where you pilot a toy boat against waves of enemy ships within a foggy pool! Some interesting features include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Volumetric Fog&lt;/strong&gt;, which can be parted by objects which attenuate the fog density&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Procedural Water&lt;/strong&gt; with Ripples using render textures and a wave shader&lt;/li&gt;&#xA;&lt;li&gt;Render texture scrolling to follow the player across a potentially infinite map&lt;/li&gt;&#xA;&lt;li&gt;Boid NPC behaviors to create enemy ship formations&lt;/li&gt;&#xA;&lt;li&gt;Procedural behavior generation for enemies, with possible states depending on assigned tasks and enemy type&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Procedural enemies&lt;/strong&gt;, with varying coloration, decoration, and armaments based on enemy types&lt;/li&gt;&#xA;&lt;li&gt;A variety of ships procedurally modelled in Houdini&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/projects/ship_closeup_crop.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/projects/boat_houdini.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;In-game prototyping&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Houdini modelling&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Demo Video: &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cPxqBuK4olA&#34;&gt;https://www.youtube.com/watch?v=cPxqBuK4olA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Catanks</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/catanks/</link>
+      <link>https://kevindu.dev/projects/catanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/catanks/</guid>
+      <guid>https://kevindu.dev/projects/catanks/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;Catanks&lt;/a&gt; is UPGRADE’s 2024–2025 semester project, released on &lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;&lt;strong&gt;Steam&lt;/strong&gt;&lt;/a&gt; as a top-down arcade tank shooter where you battle the numerous NPC rat tanks. As &lt;strong&gt;producer&lt;/strong&gt; and one of 2 lead developers, I worked closely with 10+ programmers and coordinated the game’s asset and production pipelines.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for most of the &lt;strong&gt;core game design planning and game mechanics programming&lt;/strong&gt; during the first half of development, before shifting my focus to developing the Classic Mode inspired by Wii Tanks during the second half. This included implementing advanced &lt;strong&gt;enemy AI&lt;/strong&gt; and &lt;strong&gt;pathfinding systems&lt;/strong&gt; using state machines and &lt;strong&gt;bullet-dodging behaviors&lt;/strong&gt; to give the players a meaningful challenge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Me</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/contact/</link>
+      <link>https://kevindu.dev/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/contact/</guid>
+      <guid>https://kevindu.dev/contact/</guid>
       <description>&lt;p&gt;You can reach me through Email, Discord, or LinkedIn.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mechanika</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/mechanika/</link>
+      <link>https://kevindu.dev/projects/mechanika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/mechanika/</guid>
+      <guid>https://kevindu.dev/projects/mechanika/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/projects/mechanika_gameplay1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This 2D rhythm-oriented bullet hell was my first Unity game, and I was one of two programmers in a group of five people. Although the game may have been a bit overscoped, being an amalgamation of the ideas of all 5 of us, I am pretty satisfied with how the game turned out.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for game design and map layouts, and I implemented the NPC enemies, including the two super-difficult rhythm-oriented bosses. It was here where I&amp;rsquo;d say I fell in love with game design and ignited my passion for programming NPC behaviors.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mini Minecraft</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/mini-minecraft/</link>
+      <link>https://kevindu.dev/projects/mini-minecraft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/mini-minecraft/</guid>
+      <guid>https://kevindu.dev/projects/mini-minecraft/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/projects/minecraft_landscape.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;My team and I built a voxel game engine inspired by Minecraft, using C++ and GLSL. This experience taught me a lot about GPU rendering pipelines. My contributions include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Procedural biome assets&lt;/li&gt;&#xA;&lt;li&gt;Procedural biome grass coloring&lt;/li&gt;&#xA;&lt;li&gt;Water waves and specular reflection&lt;/li&gt;&#xA;&lt;li&gt;Post-process camera overlay for water and lava&lt;/li&gt;&#xA;&lt;li&gt;Distance fog&lt;/li&gt;&#xA;&lt;li&gt;Player physics&lt;/li&gt;&#xA;&lt;li&gt;Procedural cave generation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;procedural-assets&#34;&gt;Procedural Assets&lt;/h3&gt;&#xA;&lt;p&gt;I created 3 procedural assets: normal trees, pine trees, and ice spikes. Their sizes and appearances sample their y-positions as an efficient way to obtain randomness. They are placed along the x-z-plane with poisson disk-sampling to keep them roughly evenly spaced within their chunk.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mini-Maya</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/mini-maya/</link>
+      <link>https://kevindu.dev/projects/mini-maya/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/mini-maya/</guid>
+      <guid>https://kevindu.dev/projects/mini-maya/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/projects/cow_mesh.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I developed a basic mesh editor that replicates core functionality found in modern 3D modeling software. The editor is built around a half-edge data structure, which is what many widely used modeling tools are based on. Through the interface, users can load &lt;em&gt;.obj&lt;/em&gt; files and directly manipulate mesh vertices. Supported operations include Catmull–Clark subdivision, face triangulation, edge splitting, and face extrusion.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Monte Carlo Path Tracer</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/pathtracer/</link>
+      <link>https://kevindu.dev/projects/pathtracer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/pathtracer/</guid>
+      <guid>https://kevindu.dev/projects/pathtracer/</guid>
       <description>&lt;p&gt;This Monte Carlo path tracer is implemented in GLSL, with the majority of computation performed on the GPU. The renderer draws on concepts from &lt;em&gt;Physically Based Rendering&lt;/em&gt; and casts rays per fragment from the camera through each pixel, simulating multiple light bounces. At each bounce, direct light sampling is weighted and contributes to the overall radiance.&lt;/p&gt;&#xA;&lt;p&gt;The path tracer implements image-based environment lighting for global illumination, different types of lights and materials/BDSFs, and uses multiple importance sampling to improve convergence speed and reduce noise.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Procedural Fireball</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/fireball/</link>
+      <link>https://kevindu.dev/projects/fireball/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/fireball/</guid>
+      <guid>https://kevindu.dev/projects/fireball/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/kevinwd2401/hw01-fireball/raw/master/fireball.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I create a procedural fireball with a shader in GLSL. We start by rendering a base sphere mesh, which is then deformed through stretching, tapering with bias and gain functions, and then oscillated with trig functions.&lt;/p&gt;&#xA;&lt;p&gt;The chaotic appearance is caused by radial displacement, driven by FBM Perlin noise scrolling upwards. Additional trig oscillations along the X and Z axes mimic a strong flame. The fragment shader applies discrete color banding, interpolated between two color parameters by FBM noise and then layered on top of a base color gradient.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Real-Time Physically-Based Shaders</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/pbr/</link>
+      <link>https://kevindu.dev/projects/pbr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/pbr/</guid>
+      <guid>https://kevindu.dev/projects/pbr/</guid>
       <description>&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/projects/gi_example.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/projects/gi_example2.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;This shading model was implemented as part of our Advanced Rendering class, based on the real-time shading model used in &lt;a href=&#34;https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf&#34;&gt;Unreal Engine 4&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In our fragment shader, we implement the Torrance-Sparrow microfacet model, using approximations such as the Schlick’s approximation for fresnel term and Schlick-GGX for geometric attenuation. For image-based lighting, we precompute the diffuse and glossy irradiance with different blur thresholds via mipmaps and store it in cube textures for sampling. Also implmented are normal/displacement maps and albedo maps.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stylized Scene MV</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/stylizedmv/</link>
+      <link>https://kevindu.dev/projects/stylizedmv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/stylizedmv/</guid>
+      <guid>https://kevindu.dev/projects/stylizedmv/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the Stylized Scene project in my (CIS 5660) Procedural Graphics class, I created a &lt;em&gt;Madoka Magica&lt;/em&gt;-inpsired animated scene. I created a main stylized toon shader and many other decorative shaders to use within the scene, including a stop-motion water shader.&lt;/p&gt;&#xA;&lt;p&gt;To add to the scene’s chaotic yet melancholic atmosphere, I implemented multiple full-screen post-processing effects, including a hand-drawn, scribble-style outline shader, as well as other custom visual effects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unsettler</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/unsettler/</link>
+      <link>https://kevindu.dev/projects/unsettler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/unsettler/</guid>
+      <guid>https://kevindu.dev/projects/unsettler/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;./images/projects/unsettler.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This horror game challenges players to navigate maze-like levels, solve puzzles, and reach the exit points while avoiding hostile entities hidden in the dark.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for the monster NPCs, level layout, and lighting. Each of the three different types of creatures feature unique mechanics and behaviors. For example, one of them investigates the sounds of the player&amp;rsquo;s footsteps, and another only moves when out of the player&amp;rsquo;s line of sight, making for suspenseful gameplay. My work on lighting and post-processing shaders help reinforce the eerie horror aesthetic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>VR Cricothyrotomy Simulator</title>
-      <link>https://kevinwd2401.github.io/portfolio-website/projects/cricothyrotomy-sim/</link>
+      <link>https://kevindu.dev/projects/cricothyrotomy-sim/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevinwd2401.github.io/portfolio-website/projects/cricothyrotomy-sim/</guid>
+      <guid>https://kevindu.dev/projects/cricothyrotomy-sim/</guid>
       <description>&lt;p&gt;As part of Penn Medicine through the PURM summer research internship, I developed a VR surgical airway trainer in Unity for Unity for Meta Quest 2, 3, and Pro headsets. A cricothyrotomy is a critical emergency airway procedure performed when conventional methods fail. Due to the rarity of such cases, hands-on experience is extremely limited. This VR simulator module addresses this issue, with the aim of being used alongside conventional medical education by improving procedural familiarity in a safe, repeatable environment.&lt;/p&gt;</description>
     </item>
   </channel>
