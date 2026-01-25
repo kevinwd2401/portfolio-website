@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HLSL on Kevin Du</title>
-    <link>http://localhost:1313/portfolio-website/tags/hlsl/</link>
+    <link>https://kevinwd2401.github.io/portfolio-website/tags/hlsl/</link>
     <description>Recent content in HLSL on Kevin Du</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/portfolio-website/tags/hlsl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kevinwd2401.github.io/portfolio-website/tags/hlsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big Boat Battle</title>
-      <link>http://localhost:1313/portfolio-website/projects/ship-game/</link>
+      <link>https://kevinwd2401.github.io/portfolio-website/projects/ship-game/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio-website/projects/ship-game/</guid>
+      <guid>https://kevinwd2401.github.io/portfolio-website/projects/ship-game/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/projects/ship_demo_gif.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This my top-down combat game where you pilot a toy boat against waves of enemy ships within a foggy pool! Some interesting features include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Volumetric Fog&lt;/strong&gt;, which can be parted by objects which attenuate the fog density&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Procedural Water&lt;/strong&gt; with Ripples using render textures and a wave shader&lt;/li&gt;&#xA;&lt;li&gt;Render texture scrolling to follow the player across a potentially infinite map&lt;/li&gt;&#xA;&lt;li&gt;Boid NPC behaviors to create enemy ship formations&lt;/li&gt;&#xA;&lt;li&gt;Procedural behavior generation for enemies, with possible states depending on assigned tasks and enemy type&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Procedural enemies&lt;/strong&gt;, with varying coloration, decoration, and armaments based on enemy types&lt;/li&gt;&#xA;&lt;li&gt;A variety of ships procedurally modelled in Houdini&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../images/projects/ship_closeup_crop.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;../../images/projects/boat_houdini.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;In-game prototyping&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Houdini modelling&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Demo Video: &lt;em&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=cPxqBuK4olA&#34;&gt;https://www.youtube.com/watch?v=cPxqBuK4olA&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Catanks</title>
-      <link>http://localhost:1313/portfolio-website/projects/catanks/</link>
+      <link>https://kevinwd2401.github.io/portfolio-website/projects/catanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio-website/projects/catanks/</guid>
+      <guid>https://kevinwd2401.github.io/portfolio-website/projects/catanks/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;Catanks&lt;/a&gt; is UPGRADE’s 2024–2025 semester project, released on &lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;&lt;strong&gt;Steam&lt;/strong&gt;&lt;/a&gt; as a top-down arcade tank shooter where you battle the numerous NPC rat tanks. As &lt;strong&gt;producer&lt;/strong&gt; and one of 2 lead developers, I worked closely with 10+ programmers and coordinated the game’s asset and production pipelines.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for most of the &lt;strong&gt;core game design planning and game mechanics programming&lt;/strong&gt; during the first half of development, before shifting my focus to developing the Classic Mode inspired by Wii Tanks during the second half. This included implementing advanced &lt;strong&gt;enemy AI&lt;/strong&gt; and &lt;strong&gt;pathfinding systems&lt;/strong&gt; using state machines and &lt;strong&gt;bullet-dodging behaviors&lt;/strong&gt; to give the players a meaningful challenge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stylized Scene MV</title>
-      <link>http://localhost:1313/portfolio-website/projects/stylizedmv/</link>
+      <link>https://kevinwd2401.github.io/portfolio-website/projects/stylizedmv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio-website/projects/stylizedmv/</guid>
+      <guid>https://kevinwd2401.github.io/portfolio-website/projects/stylizedmv/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the Stylized Scene project in my (CIS 5660) Procedural Graphics class, I created a &lt;em&gt;Madoka Magica&lt;/em&gt;-inpsired animated scene. I created a main stylized toon shader and many other decorative shaders to use within the scene, including a stop-motion water shader.&lt;/p&gt;&#xA;&lt;p&gt;To add to the scene’s chaotic yet melancholic atmosphere, I implemented multiple full-screen post-processing effects, including a hand-drawn, scribble-style outline shader, as well as other custom visual effects.&lt;/p&gt;</description>
     </item>
   </channel>

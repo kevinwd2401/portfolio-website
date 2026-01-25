@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blender on Kevin Du</title>
-    <link>http://localhost:1313/portfolio-website/tags/blender/</link>
+    <link>https://kevinwd2401.github.io/portfolio-website/tags/blender/</link>
     <description>Recent content in Blender on Kevin Du</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/portfolio-website/tags/blender/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kevinwd2401.github.io/portfolio-website/tags/blender/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Catanks</title>
-      <link>http://localhost:1313/portfolio-website/projects/catanks/</link>
+      <link>https://kevinwd2401.github.io/portfolio-website/projects/catanks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio-website/projects/catanks/</guid>
+      <guid>https://kevinwd2401.github.io/portfolio-website/projects/catanks/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;Catanks&lt;/a&gt; is UPGRADE’s 2024–2025 semester project, released on &lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;&lt;strong&gt;Steam&lt;/strong&gt;&lt;/a&gt; as a top-down arcade tank shooter where you battle the numerous NPC rat tanks. As &lt;strong&gt;producer&lt;/strong&gt; and one of 2 lead developers, I worked closely with 10+ programmers and coordinated the game’s asset and production pipelines.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for most of the &lt;strong&gt;core game design planning and game mechanics programming&lt;/strong&gt; during the first half of development, before shifting my focus to developing the Classic Mode inspired by Wii Tanks during the second half. This included implementing advanced &lt;strong&gt;enemy AI&lt;/strong&gt; and &lt;strong&gt;pathfinding systems&lt;/strong&gt; using state machines and &lt;strong&gt;bullet-dodging behaviors&lt;/strong&gt; to give the players a meaningful challenge.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stylized Scene MV</title>
-      <link>http://localhost:1313/portfolio-website/projects/stylizedmv/</link>
+      <link>https://kevinwd2401.github.io/portfolio-website/projects/stylizedmv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio-website/projects/stylizedmv/</guid>
+      <guid>https://kevinwd2401.github.io/portfolio-website/projects/stylizedmv/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the Stylized Scene project in my (CIS 5660) Procedural Graphics class, I created a &lt;em&gt;Madoka Magica&lt;/em&gt;-inpsired animated scene. I created a main stylized toon shader and many other decorative shaders to use within the scene, including a stop-motion water shader.&lt;/p&gt;&#xA;&lt;p&gt;To add to the scene’s chaotic yet melancholic atmosphere, I implemented multiple full-screen post-processing effects, including a hand-drawn, scribble-style outline shader, as well as other custom visual effects.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unsettler</title>
-      <link>http://localhost:1313/portfolio-website/projects/unsettler/</link>
+      <link>https://kevinwd2401.github.io/portfolio-website/projects/unsettler/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/portfolio-website/projects/unsettler/</guid>
+      <guid>https://kevinwd2401.github.io/portfolio-website/projects/unsettler/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;../../images/projects/unsettler.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This horror game challenges players to navigate maze-like levels, solve puzzles, and reach the exit points while avoiding hostile entities hidden in the dark.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for the monster NPCs, level layout, and lighting. Each of the three different types of creatures feature unique mechanics and behaviors. For example, one of them investigates the sounds of the player&amp;rsquo;s footsteps, and another only moves when out of the player&amp;rsquo;s line of sight, making for suspenseful gameplay. My work on lighting and post-processing shaders help reinforce the eerie horror aesthetic.&lt;/p&gt;</description>
     </item>
   </channel>
