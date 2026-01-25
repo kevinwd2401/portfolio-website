@@ -1,4 +1,4 @@
-baseURL = "https://kevindu.dev"
+baseURL = "https://kevinwd2401.github.io/portfolio-website/"
 languageCode = 'en-us'
 title = 'Kevin Du'
 theme = 'hugo-noir'
