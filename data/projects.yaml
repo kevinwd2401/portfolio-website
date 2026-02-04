@@ -114,6 +114,16 @@ projects:
     # External repository
     github: "https://github.com/kevinwd2401/unreal-spooky-game"
 
+  - title: "Phase//Kill"
+    image: "/images/projects/phasekill.png"
+
+    tech: "Unity,C#,Shadergraph"
+
+    description: "A minimalist stealth puzzle game to showcase a unique game mechanic"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/phasekill/"
+
   - title: "Procedural Tower"
     image: "/images/projects/procedural_tower.png"
 

@@ -26,7 +26,8 @@
                         <!-- Learn More button -->
                         {{ with .link }}
                         <a href="{{ . }}"
-                        class="bg-accent-light/90 dark:bg-accent-dark/90 backdrop-blur-sm
+                        class="bg-accent-light/90 dark:bg-accent-dark/90
+                                backdrop-blur-none md:backdrop-blur-sm
                                 hover:bg-accent-light dark:hover:bg-accent-dark
                                 text-neutral-800 dark:text-white text-xs md:text-sm font-medium
                                 py-1 md:py-1.5 px-2 md:px-3 rounded-md
@@ -49,13 +50,14 @@
                         {{ with .github }}
                         <!-- GitHub button -->
                         <a href="{{ . }}" target="_blank" rel="noopener"
-                        class="bg-accent-light/90 dark:bg-accent-dark/90 backdrop-blur-sm
+                        class="bg-accent-light/90 dark:bg-accent-dark/90
+                                backdrop-blur-none md:backdrop-blur-sm
                                 hover:bg-accent-light dark:hover:bg-accent-dark
                                 text-neutral-800 dark:text-white text-xs md:text-sm font-medium
                                 py-1 md:py-1.5 px-2 md:px-3 rounded-md
                                 inline-flex items-center gap-1.5
                                 transition-all duration-300 transform
-                                opacity-100 md:opacity-0 group-hover:opacity-100
+                                opacity-100 md:opacity-0 md:group-hover:opacity-100
                                 shadow-lg hover:shadow-xl w-fit">
 
                             View GitHub

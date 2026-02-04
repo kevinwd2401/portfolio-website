@@ -68,7 +68,7 @@
       <link>https://kevindu.dev/projects/phasekill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kevindu.dev/projects/phasekill/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/projects/phasekill.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;This short stealth puzzle game was created for a game mechanics prototyping assignment in a game design course. I use an overexposed, minimalist visual style, placing the focus on the unique central mechanic of &amp;ldquo;phasing&amp;rdquo; between multiple map layers. I aimed to make the phasing mechanic feel satisfying as possible, employing multiple post-processing shaders and satisfying audio effects.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/projects/phasedemo.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Demo Version Here (Post Processing VFX unavailable in HTML web build): &lt;em&gt;&lt;a href=&#34;https://kevind3132.itch.io/phasekill&#34;&gt;https://kevind3132.itch.io/phasekill&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Procedural Fireball</title>
