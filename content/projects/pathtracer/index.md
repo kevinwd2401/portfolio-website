@@ -7,9 +7,9 @@ tags:
   - GLSL
 ---
 
-This Monte Carlo path tracer is implemented in GLSL, with the majority of computation performed on the GPU. The renderer draws on concepts from *Physically Based Rendering* and casts rays per fragment from the camera through each pixel, simulating multiple light bounces. At each bounce, direct light sampling is weighted and contributes to the overall radiance.
+This Monte Carlo path tracer is implemented in GLSL, with the majority of computation performed on the GPU. The renderer draws on concepts from *Physically Based Rendering* and casts rays per fragment from the camera through each pixel, simulating multiple light bounces.
 
-The path tracer implements image-based environment lighting for global illumination, different types of lights and materials/BDSFs, and uses multiple importance sampling to improve convergence speed and reduce noise.
+The path tracer implements image-based environment lighting for global illumination, and different types of lights and materials/BDSFs. Multiple importance sampling as well as Next Event Estimation, in which we use direct light sampling at each intersection, help improve convergence speed and reduce noise.
 
 
 |![](/images/projects/KevinDu_RoughMirrorEnv.png)|![](/images/projects/KevinDu_NoLightEnv.png)|
