@@ -45,6 +45,9 @@ row2:
   - icon: devicon-git-plain
     name: Git
 
+  - icon: devicon-cuda-plain
+    name: CUDA
+
   - icon: devicon-jira-plain
     name: Jira
 
