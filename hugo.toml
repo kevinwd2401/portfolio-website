@@ -20,7 +20,7 @@ defaultContentLanguageInSubdir = false
   name = "Kevin Du"
 
   location = "Philadelphia, PA"
-  description = "Hi! I’m a junior interested in graphics, software engineering, and game development. I am currently studying Computer Graphics and Game Development at the University of Pennsylvania."
+  description = "Hi! I’m a senior interested in graphics, software engineering, and game development. I am currently studying Computer Graphics and Game Development at the University of Pennsylvania."
 
   # Contact + socials (fill these in)
   email = "kevinwd2401@gmail.com"
@@ -39,17 +39,21 @@ defaultContentLanguageInSubdir = false
     weight = 1
 
   [[menu.main]]
-    name = "3D"
-    pageRef = "/art"
+    name = "Games"
+    pageRef = "/games"
     weight = 2
+
+  [[menu.main]]
+    name = "Misc"
+    pageRef = "/misc"
+    weight = 3
 
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
     name = "Resume"
     url = "/resume.pdf"
-    weight = 4
-
+    weight = 5

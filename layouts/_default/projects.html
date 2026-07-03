@@ -5,22 +5,29 @@
     <div class="grid grid-cols-1 gap-6 md:gap-8 max-w-3xl mx-auto">
         {{ $projectsData := site.Data.projects }}
         {{ range $projectsData.projects }}
+        {{ $project := . }}
         <div class="project-card relative overflow-hidden rounded-lg bg-bg-primary-light dark:bg-bg-secondary-dark border border-border-primary-light dark:border-border-primary-dark transition-all duration-300 group">
             <div class="aspect-w-16 aspect-h-9 overflow-hidden relative">
                 <div class="absolute inset-0 bg-gradient-to-br from-accent-light/20 to-accent-light/20 dark:from-accent-dark/20 dark:to-accent-dark/20 z-10"></div>
-                <img src="{{ .image }}" alt="{{ .title }}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+                {{ with .image }}
+                <img src="{{ . }}" alt="{{ $project.title }}" class="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110">
+                {{ end }}
                 <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/50 to-transparent opacity-60 z-20"></div>
                 
                 <!-- Content that moves up on hover -->
                 <div class="absolute inset-0 z-30 p-4 pb-3 md:p-6 md:pb-4 flex flex-col justify-end transform transition-transform duration-500 translate-y-0 group-hover:translate-y-[-20px]">
                     <h3 class="text-xl md:text-2xl font-bold mb-1.5 md:mb-2 text-white line-clamp-2">{{ .title }}</h3>
+                    {{ with .tech }}
                     <div class="flex flex-wrap gap-1 md:gap-2 mb-1.5 md:mb-3">
-                        {{ $techs := split .tech "," }}
+                        {{ $techs := split . "," }}
                         {{ range $tech := $techs }}
                         <span class="px-1.5 md:px-2 py-0.5 bg-neutral-700/30 backdrop-blur-sm rounded-md text-[10px] md:text-xs font-medium text-white">{{ $tech }}</span>
                         {{ end }}
                     </div>
-                    <p class="hidden md:block text-sm text-white mb-3 line-clamp-3 md:line-clamp-4">{{ .description }}</p>
+                    {{ end }}
+                    {{ with .description }}
+                    <p class="hidden md:block text-sm text-white mb-3 line-clamp-3 md:line-clamp-4">{{ . }}</p>
+                    {{ end }}
                     
                     <div class="flex items-center gap-2">
                         <!-- Learn More button -->

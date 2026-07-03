@@ -6,9 +6,7 @@
   </url><url>
     <loc>https://kevindu.dev/projects/rhythm-motion/</loc>
   </url><url>
-    <loc>https://kevindu.dev/art/</loc>
-  </url><url>
-    <loc>https://kevindu.dev/art/abstract-environment/</loc>
+    <loc>https://kevindu.dev/misc/abstract-environment/</loc>
   </url><url>
     <loc>https://kevindu.dev/projects/ship-game/</loc>
   </url><url>
@@ -24,11 +22,17 @@
   </url><url>
     <loc>https://kevindu.dev/contact/</loc>
   </url><url>
+    <loc>https://kevindu.dev/games/cooking-throwdown/</loc>
+  </url><url>
+    <loc>https://kevindu.dev/games/</loc>
+  </url><url>
     <loc>https://kevindu.dev/tags/glsl/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/hlsl/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/houdini/</loc>
+  </url><url>
+    <loc>https://kevindu.dev/projects/ml/</loc>
   </url><url>
     <loc>https://kevindu.dev/</loc>
   </url><url>
@@ -40,6 +44,8 @@
   </url><url>
     <loc>https://kevindu.dev/projects/mini-maya/</loc>
   </url><url>
+    <loc>https://kevindu.dev/misc/</loc>
+  </url><url>
     <loc>https://kevindu.dev/projects/pathtracer/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/opengl/</loc>
@@ -50,9 +56,15 @@
   </url><url>
     <loc>https://kevindu.dev/projects/</loc>
   </url><url>
+    <loc>https://kevindu.dev/tags/python/</loc>
+  </url><url>
+    <loc>https://kevindu.dev/tags/pytorch/</loc>
+  </url><url>
     <loc>https://kevindu.dev/projects/pbr/</loc>
   </url><url>
-    <loc>https://kevindu.dev/art/character-model/</loc>
+    <loc>https://kevindu.dev/tags/resnet/</loc>
+  </url><url>
+    <loc>https://kevindu.dev/misc/character-model/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/shadergraph/</loc>
   </url><url>
@@ -62,7 +74,7 @@
   </url><url>
     <loc>https://kevindu.dev/tags/</loc>
   </url><url>
-    <loc>https://kevindu.dev/art/towne337/</loc>
+    <loc>https://kevindu.dev/misc/towne337/</loc>
   </url><url>
     <loc>https://kevindu.dev/tags/typescript/</loc>
   </url><url>
@@ -72,8 +84,10 @@
   </url><url>
     <loc>https://kevindu.dev/projects/unsettler/</loc>
   </url><url>
+    <loc>https://kevindu.dev/tags/vr/</loc>
+  </url><url>
     <loc>https://kevindu.dev/projects/cricothyrotomy-sim/</loc>
   </url><url>
-    <loc>https://kevindu.dev/art/warship/</loc>
+    <loc>https://kevindu.dev/misc/warship/</loc>
   </url>
 </urlset>

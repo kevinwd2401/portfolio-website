@@ -1,5 +1,7 @@
 ---
 title: "Rigged Character Model"
+aliases:
+  - /art/character-model/
 
 tags:
   - Maya

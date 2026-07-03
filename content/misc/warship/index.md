@@ -1,5 +1,7 @@
 ---
 title: "Warship"
+aliases:
+  - /art/warship/
 
 tags:
   - Maya

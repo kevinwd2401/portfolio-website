@@ -23,9 +23,9 @@
     </item>
     <item>
       <title>Abstract Environment Render</title>
-      <link>https://kevindu.dev/art/abstract-environment/</link>
+      <link>https://kevindu.dev/misc/abstract-environment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevindu.dev/art/abstract-environment/</guid>
+      <guid>https://kevindu.dev/misc/abstract-environment/</guid>
       <description>&lt;p&gt;In this 3D environment render, I explore an abstract space unconstrained by gravity or fixed orientations. The base assets were modeled in Maya, with lighting, composition, and character posing done in Blender, with assistance from my friend Yichen Huang. I also used this piece as an opportunity to experiment with volumetric fog to enhance depth and atmosphere.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/env_model.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/bevelledEnvironment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/foggyEnvironment.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -48,6 +48,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kevindu.dev/contact/</guid>
       <description>&lt;p&gt;You can reach me through Email, Discord, or LinkedIn.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cooking Throwdown</title>
+      <link>https://kevindu.dev/games/cooking-throwdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/games/cooking-throwdown/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/projects/cooking_throwdown.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;VR Cooking Chaos is a fast-paced VR cooking game developed as part of a team of 3, made in Unity for the Meta Quest. Players take on the role of a chef competing in a televised cooking show, with a catch! You&amp;rsquo;ve forgotten all of the ingredients!&lt;/p&gt;&#xA;&lt;p&gt;As an increasingly hostile audience pelts the kitchen with produce, players must quickly catch the ingredients they need, prepare recipes under time pressure, and throw unwanted produce back to fend off overwhelming crowds. As the game progresses, more audience members appear, enraged NPCs enter frenzied throwing states, recipes become more complex, and overall difficulty steadily increases.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Image2GPS</title>
+      <link>https://kevindu.dev/projects/ml/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/projects/ml/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./images/projects/image2gps.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For our final project for CIS 5190, our team of 3 built a computer vision regression pipeline to predict GPS coordinates from campus images. Model performance was validated using Haversine distance to measure physical GPS prediction error. We started by collecting and preprocessing a custom dataset of 1,667 GPS-labeled images, converted it into a Hugging Face Dataset, and trained ResNet-based latitude/longitude regression models.&lt;/p&gt;&#xA;&lt;p&gt;We used: normalized coordinate targets, Smooth L1 loss, AdamW, learning-rate scheduling, weight decay, and gradient clipping.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mechanika</title>
@@ -100,9 +114,9 @@
     </item>
     <item>
       <title>Rigged Character Model</title>
-      <link>https://kevindu.dev/art/character-model/</link>
+      <link>https://kevindu.dev/misc/character-model/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevindu.dev/art/character-model/</guid>
+      <guid>https://kevindu.dev/misc/character-model/</guid>
       <description>&lt;p&gt;I created this stylized original character to gain hands-on experience with the 3D character production pipeline. The base mesh was modeled in Maya, then transferred to Blender for sculpting, texturing, and rigging.&lt;/p&gt;&#xA;&lt;p&gt;Multiresolution sculpting was used to refine surface details, while the Hook and Surface Deform modifiers were applied to the cloak and accessories, such as the earring, to add physics and secondary motion while being controlled by the armature.&lt;/p&gt;</description>
     </item>
     <item>
@@ -114,9 +128,9 @@
     </item>
     <item>
       <title>Towne 337 Render</title>
-      <link>https://kevindu.dev/art/towne337/</link>
+      <link>https://kevindu.dev/misc/towne337/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevindu.dev/art/towne337/</guid>
+      <guid>https://kevindu.dev/misc/towne337/</guid>
       <description>&lt;p&gt;As 3D modelling practice, I attempt to replicate the likeness of a photo I took of a classroom after hours. I place emphasis on recreating the atmospheric lighting created by the projector.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/3d/Towne337.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;My Recreation&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/3d/townereference.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;./images/3d/towne_model.png&#34; alt=&#34;&#34;&gt;&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Inspiration Photo&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: center&#34;&gt;Flat shaded viewport view&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
     </item>
     <item>
@@ -135,9 +149,9 @@
     </item>
     <item>
       <title>Warship</title>
-      <link>https://kevindu.dev/art/warship/</link>
+      <link>https://kevindu.dev/misc/warship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://kevindu.dev/art/warship/</guid>
+      <guid>https://kevindu.dev/misc/warship/</guid>
       <description>&lt;p&gt;I love WWII naval history, so as a modeling exercise, I created an accurate base model of the WWII destroyer &lt;em&gt;IJN Shimakaze&lt;/em&gt; using original blueprint schematics as reference. The asset was modelled for distant renders, with detail intentionally limited at the base-model level to prioritize efficiency. All modeling, texturing, lighting, and volumetrics were done in Maya.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/ship_model.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/shipnoisy.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/3d/shipsilhouette3.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>

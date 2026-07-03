@@ -3,8 +3,8 @@
     <h1 class="text-3xl md:text-5xl font-bold mb-8 md:mb-12 text-text-primary-light dark:text-text-primary-dark">{{ .Title }}</h1>
     
     <div class="grid grid-cols-1 gap-6 md:gap-8 max-w-3xl mx-auto">
-        {{ $projectsData := site.Data.projects3d }}
-        {{ range $projectsData.projects3d }}
+        {{ $projectsData := site.Data.misc }}
+        {{ range $projectsData.misc }}
         <div class="project-card relative overflow-hidden rounded-lg bg-bg-primary-light dark:bg-bg-secondary-dark border border-border-primary-light dark:border-border-primary-dark transition-all duration-300 group">
             <div class="aspect-w-16 aspect-h-9 overflow-hidden relative">
                 <div class="absolute inset-0 bg-gradient-to-br from-accent-light/20 to-accent-light/20 dark:from-accent-dark/20 dark:to-accent-dark/20 z-10"></div>

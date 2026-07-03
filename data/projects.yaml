@@ -10,6 +10,28 @@ projects:
     link: "/projects/pathtracer/"
 
 
+  - title: "Mini Minecraft"
+    image: "/images/projects/minecraft_landscape.png"
+
+    tech: "C++,OpenGL,GLSL"
+
+    description: "3D voxel game engine"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/mini-minecraft/"
+
+
+  - title: "VR Cricothyrotomy Simulator"
+    image: "/images/projects/crico_demo_dark.png"
+
+    tech: "Unity,C#"
+
+    description: "Educational VR module for cricothyrotomy procedure training"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/cricothyrotomy-sim/"
+
+
   - title: "Big Boat Battle"
     image: "/images/projects/ship_closeup_crop.png"
 
@@ -24,40 +46,6 @@ projects:
     github: "https://github.com/kevinwd2401/procedural-boat-game"
 
 
-  - title: "VR Cricothyrotomy Simulator"
-    image: "/images/projects/crico_demo_dark.png"
-
-    tech: "Unity,C#"
-
-    description: "Educational VR module for cricothyrotomy procedure training"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/cricothyrotomy-sim/"
-
-  - title: "Catanks"
-    image: "/images/projects/catank_campaign.jpg"
-
-    tech: "Unity,C#,HLSL,Shadergraph,Blender"
-
-    description: "A top-down arcade shooter featuring cats, as well as many different modes, maps, and enemies. Published on Steam!"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/catanks/"
-
-    # External repository
-    github: "https://github.com/pennupgrade/catanks"
-
-  - title: "Mini Minecraft"
-    image: "/images/projects/minecraft_landscape.png"
-
-    tech: "C++,OpenGL,GLSL"
-
-    description: "3D voxel game engine"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/mini-minecraft/"
-
-
   - title: "3D Deferred Renderer"
     image: "/images/projects/ssr_example.png"
 
@@ -67,6 +55,17 @@ projects:
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/pbr/"
+
+
+  - title: "Image2GPS"
+    image: "/images/projects/image2gps.png"
+
+    tech: "Python,PyTorch,ResNet"
+
+    description: "An computer vision regression pipeline to predict campus-image GPS coordinates"
+    link: "/projects/ml/"
+    github: https://github.com/mhedlund7/CIS-5190-Final-Project
+
 
   - title: "Stylized Scene"
     image: "https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png"
@@ -81,6 +80,7 @@ projects:
     # External repository
     github: "https://github.com/kevinwd2401/hw02-stylization"
 
+
   - title: "Fireball"
     image: "https://github.com/kevinwd2401/hw01-fireball/raw/master/fireball.png"
 
@@ -91,6 +91,7 @@ projects:
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/fireball/"
 
+
   - title: "Mini-Maya"
     image: "/images/projects/cow_mesh.png"
 
@@ -100,82 +101,3 @@ projects:
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/mini-maya/"
-
-  - title: "Unsettler"
-    image: "/images/projects/unsettler.png"
-
-    tech: "Unreal Engine 5,C++,Blender"
-
-    description: "An RPG horror game where the player must navigate a maze while avoiding the creatures lurking in the dark"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/unsettler/"
-
-    # External repository
-    github: "https://github.com/kevinwd2401/unreal-spooky-game"
-
-  - title: "Phase//Kill"
-    image: "/images/projects/phasekill.png"
-
-    tech: "Unity,C#,Shadergraph"
-
-    description: "A minimalist stealth puzzle game to showcase a unique game mechanic"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "/projects/phasekill/"
-
-  - title: "Procedural Tower"
-    image: "/images/projects/procedural_tower.png"
-
-    tech: "Houdini"
-
-    description: "An abstract and minimalist-themed procedural building generator"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    # link: "/projects/building/"
-
-    # External repository
-    github: "https://github.com/kevinwd2401/hw04-buildings"
-
-  - title: "Mechanika"
-    image: "/images/projects/mechanika_gameplay2.png"
-
-    tech: "Unity,C#"
-
-    description: "2D sci-fi bullet-hell rhythm game with VN elements"
-
-    # Internal page on your site (Markdown pagder content/projects/)
-    link: "/projects/mechanika/"
-
-  # - title: "Rhythm Motion"
-  #   image: "/images/projects/waterboat.png"
-
-  #   tech: "Swift"
-
-  #   description: "A real-time procedural water surface with ripple propagation using render textures and GPU-based wave simulation."
-
-  #   # Internal page on your site (Markdown page under content/projects/)
-  #   link: "/projects/rhythm-motion/"
-
-
-  - title: "2 Huge Pizzas"
-    image: "/images/projects/2hp_gameplay2.png"
-
-    tech: "Unity,C#"
-
-    description: "Retro Quake-inspired maze first-person shooter demo"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "https://sgmq0.itch.io/two-huge-pizza"
-
-
-  - title: "Fungal Fighters"
-    image: "/images/projects/fungal_fighters.png"
-
-    tech: "Unity,C#"
-
-    description: "2D grid-based card battler game"
-
-    # Internal page on your site (Markdown page under content/projects/)
-    link: "https://kevind3132.itch.io/fungus-fight"
-

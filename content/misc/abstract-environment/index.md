@@ -1,5 +1,7 @@
 ---
 title: "Abstract Environment Render"
+aliases:
+  - /art/abstract-environment/
 
 tags:
   - Maya

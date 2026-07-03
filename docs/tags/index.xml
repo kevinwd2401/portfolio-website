@@ -64,6 +64,27 @@
       <description></description>
     </item>
     <item>
+      <title>Python</title>
+      <link>https://kevindu.dev/tags/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PyTorch</title>
+      <link>https://kevindu.dev/tags/pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/tags/pytorch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ResNet</title>
+      <link>https://kevindu.dev/tags/resnet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/tags/resnet/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Shadergraph</title>
       <link>https://kevindu.dev/tags/shadergraph/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -96,6 +117,13 @@
       <link>https://kevindu.dev/tags/unreal-engine-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kevindu.dev/tags/unreal-engine-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VR</title>
+      <link>https://kevindu.dev/tags/vr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/tags/vr/</guid>
       <description></description>
     </item>
   </channel>

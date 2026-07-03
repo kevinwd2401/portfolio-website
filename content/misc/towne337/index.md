@@ -1,5 +1,7 @@
 ---
 title: "Towne 337 Render"
+aliases:
+  - /art/towne337/
 
 tags:
   - Blender

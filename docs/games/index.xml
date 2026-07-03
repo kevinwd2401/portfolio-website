@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game Projects on Kevin Du</title>
+    <link>https://kevindu.dev/games/</link>
+    <description>Recent content in Game Projects on Kevin Du</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://kevindu.dev/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cooking Throwdown</title>
+      <link>https://kevindu.dev/games/cooking-throwdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/games/cooking-throwdown/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../images/projects/cooking_throwdown.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;VR Cooking Chaos is a fast-paced VR cooking game developed as part of a team of 3, made in Unity for the Meta Quest. Players take on the role of a chef competing in a televised cooking show, with a catch! You&amp;rsquo;ve forgotten all of the ingredients!&lt;/p&gt;&#xA;&lt;p&gt;As an increasingly hostile audience pelts the kitchen with produce, players must quickly catch the ingredients they need, prepare recipes under time pressure, and throw unwanted produce back to fend off overwhelming crowds. As the game progresses, more audience members appear, enraged NPCs enter frenzied throwing states, recipes become more complex, and overall difficulty steadily increases.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -22,6 +22,13 @@
       <description>&lt;p&gt;&lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;Catanks&lt;/a&gt; is UPGRADE’s 2024–2025 semester project, released on &lt;a href=&#34;https://store.steampowered.com/app/3793790/Catanks/&#34;&gt;&lt;strong&gt;Steam&lt;/strong&gt;&lt;/a&gt; as a top-down arcade tank shooter where you battle the numerous NPC rat tanks. As &lt;strong&gt;producer&lt;/strong&gt; and one of 2 lead developers, I worked closely with 10+ programmers and coordinated the game’s asset and production pipelines.&lt;/p&gt;&#xA;&lt;p&gt;I was responsible for most of the &lt;strong&gt;core game design planning and game mechanics programming&lt;/strong&gt; during the first half of development, before shifting my focus to developing the Classic Mode inspired by Wii Tanks during the second half. This included implementing advanced &lt;strong&gt;enemy AI&lt;/strong&gt; and &lt;strong&gt;pathfinding systems&lt;/strong&gt; using state machines and &lt;strong&gt;bullet-dodging behaviors&lt;/strong&gt; to give the players a meaningful challenge.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Cooking Throwdown</title>
+      <link>https://kevindu.dev/games/cooking-throwdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kevindu.dev/games/cooking-throwdown/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../../images/projects/cooking_throwdown.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;VR Cooking Chaos is a fast-paced VR cooking game developed as part of a team of 3, made in Unity for the Meta Quest. Players take on the role of a chef competing in a televised cooking show, with a catch! You&amp;rsquo;ve forgotten all of the ingredients!&lt;/p&gt;&#xA;&lt;p&gt;As an increasingly hostile audience pelts the kitchen with produce, players must quickly catch the ingredients they need, prepare recipes under time pressure, and throw unwanted produce back to fend off overwhelming crowds. As the game progresses, more audience members appear, enraged NPCs enter frenzied throwing states, recipes become more complex, and overall difficulty steadily increases.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Mechanika</title>
       <link>https://kevindu.dev/projects/mechanika/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

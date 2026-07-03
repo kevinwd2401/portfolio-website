@@ -1,0 +1,103 @@
+games:
+  - title: "Big Boat Battle"
+    image: "/images/projects/ship_closeup_crop.png"
+
+    tech: "Unity,C#,HLSL,Houdini"
+
+    description: "A top-down combat game, incorporating real-time interactive volumetric fog and water ripples using render textures"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/ship-game/"
+
+    # External repository
+    github: "https://github.com/kevinwd2401/procedural-boat-game"
+
+
+  - title: "Catanks"
+    image: "/images/projects/catank_campaign.jpg"
+
+    tech: "Unity,C#,HLSL,Shadergraph,Blender"
+
+    description: "A top-down arcade shooter featuring cats, as well as many different maps, modes, and enemies. Published on Steam!"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/catanks/"
+
+    # External repository
+    github: "https://github.com/pennupgrade/catanks"
+
+
+  - title: "Phase//Kill"
+    image: "/images/projects/phasekill.png"
+
+    tech: "Unity,C#,Shadergraph"
+
+    description: "A minimalist stealth puzzle game where the player must phase between worlds."
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/phasekill/"
+
+
+  - title: "Cooking Throwdown"
+    image: "/images/projects/cooking_throwdown.png"
+
+    tech: "Unity,C#"
+
+    description: "A VR cooking game with a twist!"
+    link: "/games/cooking-throwdown/"
+
+
+  - title: "Last Wick"
+    image: "/images/projects/last_wick.png"
+
+    tech: "Unreal,C++"
+
+    description: "A stealth survival game where you navigate through the darkness as a candle."
+    link: "https://kevind3132.itch.io/the-last-wick"
+
+
+  - title: "Mechanika"
+    image: "/images/projects/mechanika_gameplay2.png"
+
+    tech: "Unity,C#"
+
+    description: "2D sci-fi bullet-hell rhythm game with VN elements"
+
+    # Internal page on your site (Markdown pagder content/projects/)
+    link: "/projects/mechanika/"
+
+
+  - title: "Unsettler"
+    image: "/images/projects/unsettler.png"
+
+    tech: "Unreal Engine 5,C++,Blender"
+
+    description: "An RPG horror game where the player must navigate a maze while avoiding the creatures lurking in the dark"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/unsettler/"
+
+    # External repository
+    github: "https://github.com/kevinwd2401/unreal-spooky-game"
+
+
+  - title: "2 Huge Pizzas"
+    image: "/images/projects/2hp_gameplay2.png"
+
+    tech: "Unity,C#"
+
+    description: "Retro Quake-inspired maze first-person shooter demo"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "https://sgmq0.itch.io/two-huge-pizza"
+
+
+  - title: "Fungal Fighters"
+    image: "/images/projects/fungal_fighters.png"
+
+    tech: "Unity,C#"
+
+    description: "2D grid-based card battler game"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "https://kevind3132.itch.io/fungus-fight"
