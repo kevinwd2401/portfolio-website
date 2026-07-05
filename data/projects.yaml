@@ -32,12 +32,12 @@ projects:
     link: "/projects/cricothyrotomy-sim/"
 
 
-  - title: "Big Boat Battle"
+  - title: "Real-Time Water & Fog Rendering Demo"
     image: "/images/projects/ship_closeup_crop.png"
 
     tech: "Unity,C#,HLSL,Houdini"
 
-    description: "A top-down combat game, incorporating real-time interactive volumetric fog and water ripples using render textures"
+    description: "A top-down combat game showcasing real-time interactive volumetric fog and water ripples using render textures"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/ship-game/"
@@ -67,7 +67,7 @@ projects:
     github: https://github.com/mhedlund7/CIS-5190-Final-Project
 
 
-  - title: "Stylized Scene"
+  - title: "Stylized Shader Showcase"
     image: "https://github.com/kevinwd2401/hw02-stylization/raw/main/StylizationImages/animation.png"
 
     tech: "Unity,Shaders,HLSL,Blender"
@@ -92,12 +92,12 @@ projects:
     link: "/projects/fireball/"
 
 
-  - title: "Mini-Maya"
+  - title: "Half-Edge Mesh Editor"
     image: "/images/projects/cow_mesh.png"
 
     tech: "QT Creator,C++,OpenGL"
 
-    description: "Mesh editor replicating core functionality found in 3D modeling software"
+    description: "A mesh editing application featuring subdivision surfaces and core polygon modeling tools"
 
     # Internal page on your site (Markdown page under content/projects/)
     link: "/projects/mini-maya/"
