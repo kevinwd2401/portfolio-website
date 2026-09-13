@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>OpenGL - Kevin Du</title>
+        <title>Boid Simulation - Kevin Du</title>
         
         
         <link rel="apple-touch-icon" sizes="180x180" href="https://kevindu.dev//favicon_io/apple-touch-icon.png">
@@ -177,7 +177,7 @@
             
             <nav class="hidden md:flex flex-wrap ml-auto mr-12 items-center gap-4 md:gap-6">
                 
-                <a href="https://kevindu.dev/projects/" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 ">Projects</a>
+                <a href="https://kevindu.dev/projects/" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 text-accent-light dark:text-accent-dark font-semibold">Projects</a>
                 
                 <a href="https://kevindu.dev/games/" class="inline-block text-lg text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 ">Games</a>
                 
@@ -236,7 +236,7 @@
         </div>
         <nav class="flex flex-col p-6 space-y-4">
             
-            <a href="https://kevindu.dev/projects/" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 " data-menu-link>Projects</a>
+            <a href="https://kevindu.dev/projects/" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 text-accent-light dark:text-accent-dark font-semibold" data-menu-link>Projects</a>
             
             <a href="https://kevindu.dev/games/" class="text-xl text-text-secondary-light dark:text-text-secondary-dark hover:text-text-primary-light dark:hover:text-text-primary-dark transition-colors duration-300 " data-menu-link>Games</a>
             
@@ -395,54 +395,99 @@
 </script> 
         <main>
             
-<div class="container mx-auto px-4 py-12">
-    <h1 class="text-4xl font-bold mb-8">OpenGL</h1>
-    <div class="space-y-6">
-        
-        <article class="border border-gray-700 rounded-lg p-6 bg-[#1a1a1a]">
-            <h2 class="text-2xl font-semibold mb-2">
-                <a href="../../projects/boid-simulation/" class="hover:text-gray-300">Boid Simulation</a>
-            </h2>
+<main class="mx-auto max-w-2xl px-4 py-10">
+    <article>
+        <header class="mb-4">
+            <h1 class="text-3xl font-bold leading-tight">
+                Boid Simulation
+            </h1>
+        </header>
+
+        <div class="flex flex-wrap gap-2 mb-10">
             
-        </article>
-        
-        <article class="border border-gray-700 rounded-lg p-6 bg-[#1a1a1a]">
-            <h2 class="text-2xl font-semibold mb-2">
-                <a href="../../projects/mini-minecraft/" class="hover:text-gray-300">Mini Minecraft</a>
-            </h2>
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                CUDA
+            </span>
             
-        </article>
-        
-        <article class="border border-gray-700 rounded-lg p-6 bg-[#1a1a1a]">
-            <h2 class="text-2xl font-semibold mb-2">
-                <a href="../../projects/mini-maya/" class="hover:text-gray-300">Mini-Maya</a>
-            </h2>
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                C&#43;&#43;
+            </span>
             
-        </article>
-        
-        <article class="border border-gray-700 rounded-lg p-6 bg-[#1a1a1a]">
-            <h2 class="text-2xl font-semibold mb-2">
-                <a href="../../projects/pathtracer/" class="hover:text-gray-300">Monte Carlo Path Tracer</a>
-            </h2>
+            <span class="px-2 py-1 bg-bg-primary-light dark:bg-bg-tertiary-dark rounded-md text-xs font-medium text-text-secondary-light dark:text-text-secondary-dark">
+                OpenGL
+            </span>
             
-        </article>
-        
-        <article class="border border-gray-700 rounded-lg p-6 bg-[#1a1a1a]">
-            <h2 class="text-2xl font-semibold mb-2">
-                <a href="../../projects/fireball/" class="hover:text-gray-300">Procedural Fireball</a>
-            </h2>
-            
-        </article>
-        
-        <article class="border border-gray-700 rounded-lg p-6 bg-[#1a1a1a]">
-            <h2 class="text-2xl font-semibold mb-2">
-                <a href="../../projects/pbr/" class="hover:text-gray-300">Real-Time Physically-Based Shaders</a>
-            </h2>
-            
-        </article>
-        
-    </div>
-</div>
+        </div>
+
+
+        <section class="markdown">
+            <p><img src="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/boids_01.png" alt="Boid simulation"></p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img src="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/boids_1.gif" alt="Boid simulation animation"></th>
+          <th style="text-align: center"><img src="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/boids_sprott.gif" alt="Sprott attractor animation"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">Default simulation</td>
+          <td style="text-align: center">Sprott attractor simulation</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="overview">Overview</h2>
+<p>A group of individual boids can produce emergent flocking behavior just by following simple local rules: cohesion, separation, and alignment.</p>
+<p>For each individual boid, the simulation performs the following pseudocode every frame:</p>
+<pre tabindex="0"><code>for each nearby boid:
+    if within cohesion radius:
+        move toward the neighbors&#39; average position
+    if within separation radius:
+        move away from nearby neighbors
+    if within alignment radius:
+        match the neighbors&#39; average velocity
+
+update velocity using the combined steering forces
+limit the boid&#39;s speed
+update position using the new velocity
+</code></pre><h2 id="implementation">Implementation</h2>
+<ul>
+<li>CUDA-based boid simulation with cohesion, separation, and alignment rules</li>
+<li>Naive brute-force neighbor search</li>
+<li>Scattered uniform-grid neighbor search using Thrust sorting</li>
+<li>Coherent uniform-grid neighbor search with position and velocity data reordered by grid cell</li>
+<li>CUDA kernels for:
+<ul>
+<li>Computing grid-cell indices</li>
+<li>Sorting boids by grid cell</li>
+<li>Reshuffling boid data into coherent memory order</li>
+<li>Updating boid velocities and positions</li>
+</ul>
+</li>
+</ul>
+<p>An analysis comparing performance between different implementations, boid counts, and CUDA block sizes can be viewed on <a href="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking"><strong>Github</strong></a>.</p>
+<p><img src="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/boid_vs_fps_no_vis.png" alt="FPS by boid count without visualization"></p>
+<p><img src="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/block_size_vs_fps.png" alt="FPS by CUDA block size"></p>
+<h2 id="additional-experiments">Additional Experiments</h2>
+<p>I played around with strange-attractor vector fields which influence the boids&rsquo; velocity updates. The vector field is evaluated at each boid&rsquo;s position and added to its acceleration, allowing the flock to form interesting patterns around attractors such as Lorenz, Thomas, Halvorsen, and Sprott B.</p>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"><img src="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/boids_lorenz.gif" alt="Lorenz attractor animation"></th>
+          <th style="text-align: center"><img src="https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/boids_thomas.gif" alt="Thomas attractor animation"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">Lorenz attractor</td>
+          <td style="text-align: center">Thomas attractor</td>
+      </tr>
+  </tbody>
+</table>
+
+        </section>
+    </article>
+</main>
 
         </main>
         

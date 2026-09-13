@@ -1,4 +1,5 @@
 misc:
+
   - title: "Procedural Tower"
     image: "/images/projects/procedural_tower.png"
 
@@ -22,6 +23,17 @@ misc:
     description: "An animated 3D precedural jellyfish"
 
     github: "https://github.com/kevinwd2401/hw03-jellyfish"
+
+
+  - title: "Primitives Animation"
+    image: "https://img.youtube.com/vi/o0o8EpBW-T8/maxresdefault.jpg"
+
+    tech: "Maya"
+
+    description: "A short animation using primitive shapes"
+
+    # Internal page on your site (Markdown page under content/misc/)
+    link: "/misc/primitives/"
 
 
   - title: "Abstract Environment"
@@ -62,7 +74,7 @@ misc:
     # Comma-separated because your template uses `split .tech ","`
     tech: "Maya"
 
-    description: "A render of a 1940s destroyer model, based on blueprint schematics"
+    description: "A render of a 1940s warship model, based on blueprint schematics"
 
     # Internal page on your site (Markdown page under content/misc/)
     link: "/misc/warship/"

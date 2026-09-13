@@ -10,6 +10,20 @@ projects:
     link: "/projects/pathtracer/"
 
 
+  - title: "Boid Simulation"
+    image: "https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking/raw/main/images/boids_02.png"
+
+    tech: "CUDA,C++,OpenGL"
+
+    description: "CUDA implementation of a 3D boids simulation with optimized neighbor searches"
+
+    # Internal page on your site (Markdown page under content/projects/)
+    link: "/projects/boid-simulation/"
+
+    # External repository
+    github: "https://github.com/kevinwd2401/Fall2026-Project1-CUDA-Flocking"
+
+
   - title: "Mini Minecraft"
     image: "/images/projects/minecraft_landscape.png"
 
